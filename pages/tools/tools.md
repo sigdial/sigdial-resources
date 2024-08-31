@@ -16,14 +16,16 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <div class="datatable-begin"></div>
 <table>
 <colgroup>
-<col width="20%" />
-<col width="20%" />
-<col width="20%" />
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
+<col width="15%" />
 <col width="40%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th>Name</th>
+<th>Objective</th>
 <th>Developer</th>
 <th>Programming Language</th>
 <th>Belief Description</th>
@@ -32,40 +34,56 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <tbody>
 <tr>
 <td markdown="span">[Pydial](https://pydial.cs.hhu.de/)</td>
+<td markdown="span">Dialogue system development</td>
 <td markdown="span">Cambridge University</td>
 <td markdown="span">Python</td>
 <td markdown="span">An open-source end-to-end statistical spoken dialogue system toolkit which provides implementations of statistical approaches for all dialogue system modules. </td>
 </tr>
 <tr>
 <td markdown="span">[OpenDial](https://sites.google.com/site/opendialtoolkit)</td>
+<td markdown="span">Dialogue system development</td>
 <td markdown="span">University of Oslo</td>
 <td markdown="span">Java</td>
 <td markdown="span">A Java-based, domain-independent toolkit for developing spoken dialogue systems. </td>
 </tr>
 <tr>
 <td markdown="span">[Rasa Open Source](https://rasa.com/docs/rasa/)</td>
+<td markdown="span">Dialogue system development</td>
 <td markdown="span">Rasa Technologies</td>
 <td markdown="span">Python</td>
 <td markdown="span">The most popular open source framework for building chat and voice-based AI assistants.</td>
 </tr>
 <tr>
 <td markdown="span">[ConvLab](https://convlab.github.io/)</td>
+<td markdown="span">Dialogue system development</td>
 <td markdown="span">Tsinghua University Conversational AI group (THU-coai) and Microsoft Research (MSR)</td>
 <td markdown="span">Python</td>
 <td markdown="span">A flexible dialog system platform based on a unified data format for task-oriented dialog (TOD) datasets.</td>
 </tr>
 <tr>
 <td markdown="span">[BotPress](https://github.com/botpress)</td>
+<td markdown="span">Dialogue system development</td>
 <td markdown="span">Botpress, Inc.</td>
 <td markdown="span">TypeScript</td>
 <td markdown="span">The standard developer stack to build, run, and improve conversational AI applications. </td>
 </tr>
 <tr>
 <td markdown="span">[DialBB](https://github.com/c4a-ri/dialbb)</td>
+<td markdown="span">Dialogue system development</td>
 <td markdown="span">C4A Research Institute, Inc.</td>
 <td markdown="span">Python</td>
 <td markdown="span">A framework for building dialogue systems. It has been develped as an information technology educational material.</td>
 </tr>
+
+<tr>
+<td markdown="span">[ELAN](https://archive.mpi.nl/tla/elan)</td>
+<td markdown="span">Annotation</td>
+<td markdown="span">Max Planck Institute for Psycholinguistics</td>
+<td markdown="span">Java</td>
+<td markdown="span">Enables adding an unlimited number of textual annotations to audio and/or video recordings. An annotation can be a sentence, word or gloss, a comment, translation or a description of any feature observed in the media. Annotations can be created on multiple layers, called tiers. Tiers can be hierarchically interconnected. An annotation can either be time-aligned to the media or it can refer to other existing annotations. The content of annotations consists of Unicode text and annotation documents are stored in an XML format (EAF).</td>
+</tr>
+
+
 </tbody>
 </table>
 <div class="datatable-end"></div>
