@@ -1,7 +1,7 @@
 ---
 title: Challenges
 keywords: challenge, shared task
-last_updated: Aug 27, 2024
+last_updated: Aug 31, 2024
 datatable: true
 summary: "Challenges, competitions, and shared tasks on discourse and dialogue technologies"
 sidebar: mydoc_sidebar
@@ -9,6 +9,8 @@ hide_sidebar: true
 permalink: challenges.html
 folder: challenges
 ---
+
+If you add other challenges or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/challenges/challenges.md).). 
 
 <div class="datatable-begin"></div>
 <table>

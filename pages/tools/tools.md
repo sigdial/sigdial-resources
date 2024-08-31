@@ -1,7 +1,7 @@
 ---
 title: Tools
 keywords: tool, programming language
-last_updated: Aug 27, 2024
+last_updated: Aug 31, 2024
 datatable: true
 summary: "Tools useful for discourse and dialogue research"
 sidebar: mydoc_sidebar
@@ -9,6 +9,9 @@ hide_sidebar: true
 permalink: tools.html
 folder: tools
 ---
+
+If you want to add other tools or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/tools/tools.md).).
+
 
 <div class="datatable-begin"></div>
 <table>

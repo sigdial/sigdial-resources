@@ -1,7 +1,7 @@
 ---
-title: Corpora
+title: Corpora and Datasets
 keywords: corpus, dataset
-last_updated: "Aug. 27, 2024"
+last_updated: "Aug. 31, 2024"
 datatable: true
 summary: "Corpora and datasets for discourse and dialogue reserach"
 sidebar: mydoc_sidebar
@@ -10,9 +10,9 @@ permalink: corpora.html
 folder: corpora
 ---
 
-Parts of the contents of the list are extracted from the papers using ChatGPT, so they might be wrong. If you find errors, please create GitHub [issues](https://github.com/mk-nakano/discourse-and-dialogue-resource-list2/issues) or [pull requests](https://github.com/mk-nakano/discourse-and-dialogue-resource-list2/pulls).
+Parts of the contents of the list are extracted from the papers using ChatGPT, so they might be wrong. If you find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/corpora/corpora.md).). 
 
-The corpora list has been adapted from [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/abs/1512.05742), with permission; see the [survey website](https://breakend.github.io/DialogDatasets/) for reference and please cite the paper if useful.
+Parts of this list have been adapted from [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/abs/1512.05742), with permission; see the [survey website](https://breakend.github.io/DialogDatasets/) for reference and please cite the paper if useful.
 
 
 

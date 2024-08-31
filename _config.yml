@@ -1,15 +1,15 @@
-repository: mk-nakano/discourse-and-dialogue-resource-list2
+repository: sigdial/sigdial-resources
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Discourse and Dialogue Resource List
+topnav_title: SIGdial Resource Lists
 # this appears on the top navigation bar next to the home button
 
-site_title: Discourse and Dialogue Resource List
+site_title: SIGdial Resource List
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Mikio Nakano
+company_name: SIGdial
 # this appears in the footer
 
 #github_editme_path: mk-nakano/discourse-and-dialogue-resource-list2
