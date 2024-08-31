@@ -1,5 +1,5 @@
 ---
-title: "Discourse and Dialogue Resource List"
+title: "SIGdial Lists for Discourse and Dialogue Research"
 # keywords: home
 # tags: [home]
 sidebar: mydoc_sidebar
@@ -9,10 +9,10 @@ permalink: index.html
 toc: false
 ---
 
-This site lists resources useful for discourse and dialogue research. 
+This site lists resources useful for discourse and dialogue research. It is created and maintained by [SIGdial (Special Interest Group on Discourse and Dialogue)](https://www.sigdial.org/)
 
 - [Corpora](corpora.html)
-- [Tools](tools.html)
+- [Tools](tools.html) 
 - [Challenges](challenges.html)
 
 If you want to add new resources or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls)

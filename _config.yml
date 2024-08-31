@@ -6,7 +6,7 @@ output: web
 topnav_title: SIGdial Resource Lists
 # this appears on the top navigation bar next to the home button
 
-site_title: SIGdial Resource List
+site_title: SIGdial Resource Lists
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: SIGdial
@@ -118,3 +118,4 @@ github: [metadata]
 
 
 # Copyright 2021 Google LLC
+# Copyright 2024 SIGdial
