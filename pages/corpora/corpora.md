@@ -232,7 +232,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Game strategy and conversation</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">21 games annotated, ca. 2000 dialogue turns, ca. 40 games collected</td>
-  <td markdown="span">Not specifically mentioned, but includes 'a few dozen self-contained bargaining conversations' per game</td>
+  <td markdown="span">Includes 'a few dozen self-contained bargaining conversations' per game</td>
   <td markdown="span">A corpus of online chats between agents playing The Settlers of Catan, a competitive win–lose game involving negotiations. The corpus aligns players’ conversations with the state of the game, focusing on negotiation dialogues and strategic interactions.</td>
   <td markdown="span">[Afantenos et al., 2012](https://www.pure.ed.ac.uk/ws/portalfiles/portal/12559704/Afatenos_Asher_et_al_2012_Developing_a_corpus_of_strategic_conversation_in_the_Settlers_of_Catan.pdf)</td>
 </tr>
@@ -240,7 +240,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 
 <tr>
-  <td markdown="span">[Let's Go Public corpus](Not explicitly mentioned)</td>
+  <td markdown="span">[Let's Go Public corpus](https://github.com/DialRC/LetsGoDataset)</td>
   <td markdown="span">English</td>
   <td markdown="span">speech</td>
   <td markdown="span">audio</td>
@@ -276,8 +276,8 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">audio</td>
   <td markdown="span">Travel planning (air transportation, hotel reservations, car rentals)</td>
   <td markdown="span">Human-System</td>
-  <td markdown="span">Not specified</td>
-  <td markdown="span">Not specified</td>
+  <td markdown="span">N/A</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">The Carnegie Mellon Communicator system assists users in creating complex travel itineraries through a conversational interface. It utilizes schemas to manage dialogues, aiming to support problem-solving activities by providing information, proposing solutions, and highlighting potential constraint violations.</td>
   <td markdown="span">[Rudnicky et al., 1999](https://www.isca-archive.org/eurospeech_1999/rudnicky99_eurospeech.pdf)</td>
 </tr>
@@ -285,7 +285,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 
 <tr>
-  <td markdown="span">[ATIS Spoken Language Systems Pilot Corpus](No URL specified in the document)</td>
+  <td markdown="span">[ATIS Spoken Language Systems Pilot Corpus](https://catalog.ldc.upenn.edu/LDC93S4B)</td>
   <td markdown="span">English</td>
   <td markdown="span">speech</td>
   <td markdown="span">audio, text</td>
@@ -298,9 +298,8 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 </tr>
 
 
-
 <tr>
-  <td markdown="span">[RITEL Corpus](URL not specified in the document)</td>
+  <td markdown="span">[RITEL Corpus](https://publi.limsi.fr/RS2005/chm/lir/lir12/)</td>
   <td markdown="span">French</td>
   <td markdown="span">speech</td>
   <td markdown="span">audio</td>
@@ -315,7 +314,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 
 <tr>
-  <td markdown="span">[Tutorial Dialogs on Mathematical Theorem Proving](Email request to dialog@ags.uni-sb.de)</td>
+  <td markdown="span">Tutorial Dialogs on Mathematical Theorem Proving</td>
   <td markdown="span">German (Translated to English for publication)</td>
   <td markdown="span">text</td>
   <td markdown="span">text, audio, video</td>
@@ -382,7 +381,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Pedestrian navigation and spatial cognition</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">36 dialogues, detailed transcripts</td>
-  <td markdown="span">Not specified explicitly, multiple tasks involved</td>
+  <td markdown="span">Multiple tasks involved</td>
   <td markdown="span">The corpus consists of experimentally parameterized collection of spontaneous spoken dialogues, focusing on lexical choice and variability during direction-giving tasks. It involves participants communicating over mobile phones while one navigates a campus based on directions from a stationary partner.</td>
   <td markdown="span">[Brennan et al., 2013](https://escholarship.org/content/qt2wr90402/qt2wr90402.pdf)</td>
 </tr>
@@ -412,7 +411,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">role-playing game, competitive</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">7.3 hours of recordings, 50 day-phase games, 36 participants</td>
-  <td markdown="span">Not specified</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">The Idiap Wolf Database consists of audio-visual recordings from a competitive role-playing game where players have deceptive and non-deceptive roles. The unique aspect of this corpus is its focus on group behavior and deception in a controlled game setting.</td>
   <td markdown="span">[Hung and Chittaranjan, 2010](https://dl.acm.org/doi/10.1145/1873951.1874102)</td>
 </tr>
@@ -427,7 +426,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">natural meetings</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">75 meetings, approx. 72 hours of speech, 180,218 dialog act tags</td>
-  <td markdown="span">Data on average number of turns not specified</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">A corpus of hand-annotated dialog acts and adjacency pairs from naturally occurring multi-party meetings recorded at the ICSI. It includes over 180,000 dialog act tags across approximately 72 hours of meetings, focusing on complex discourse phenomena.</td>
   <td markdown="span">[Shriberg et al., 2004](https://aclanthology.org/W04-2319/)</td>
 </tr>
@@ -450,14 +449,14 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 
 <tr>
-  <td markdown="span">[ICT Rapport Datasets](Not specified in the document)</td>
+  <td markdown="span">[ICT Rapport Datasets](https://rapport.ict.usc.edu/)</td>
   <td markdown="span">English</td>
   <td markdown="span">multimodal</td>
   <td markdown="span">audio, video</td>
   <td markdown="span">Narrative task involving retelling events from a sexual harassment awareness video</td>
   <td markdown="span">Human-System</td>
   <td markdown="span">131 participants</td>
-  <td markdown="span">Not specified in the document</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">The Rapport Agent is designed to elicit rapport from human participants within a dyadic narrative task. It utilizes real-time analysis of acoustic properties of speech and speaker gestures to generate nonverbal feedback like nods and posture shifts.</td>
   <td markdown="span">[Gratch et al., 2007](https://dl.acm.org/doi/10.1007/978-3-540-74997-4_12)</td>
 </tr>
@@ -471,8 +470,8 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">text, audio, video</td>
   <td markdown="span">General conversation</td>
   <td markdown="span">Human-Human</td>
-  <td markdown="span">Not specified</td>
-  <td markdown="span">Not specified</td>
+  <td markdown="span">N/A</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">A corpus designed to observe conversational behavior as closely as possible to natural interaction, including elements like gaze, posture, and simultaneous movements. The data, collected in a domestic setting, includes extensive video, audio, and motion-capture records.</td>
   <td markdown="span">[Oertel et al., 2013](https://link.springer.com/article/10.1007/s12193-012-0108-6)</td>
 </tr>
@@ -502,7 +501,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Natural, dyadic conversations</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">17 minutes, 34 sequences</td>
-  <td markdown="span">Data not explicitly provided</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">The 4D CCDb is the first 4D (3D Video) audio-visual database containing natural conversations between pairs of people. It includes fully annotated speaker and listener activities such as conversational facial expressions, head motion, and verbal/non-verbal utterances.</td>
   <td markdown="span">[Vandeventer et al., 2015](https://www.isca-archive.org/avsp_2015/vandeventer15_avsp.html)</td>
 </tr>
@@ -517,7 +516,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Group interaction and decision-making</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">13 group meetings, 104.45 minutes of recordings</td>
-  <td markdown="span">Not specified</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">The GAP corpus contains meeting audio, transcriptions, annotations, decision-making performance, as well as group member influence, post-meeting ratings of satisfaction, and demographics. It is designed to stimulate research on the computational analysis of small group meetings.</td>
   <td markdown="span">[Braley and Murray, 2018](https://dl.acm.org/doi/10.1145/3279981.3279985)</td>
 </tr>
@@ -532,7 +531,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Collaborative group interactions in a quiz solving task</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">23 sessions, approximately 4 hours total</td>
-  <td markdown="span">Data not explicitly provided</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">The MULTISIMO Corpus involves collaborative group interactions where participants work together to solve quiz questions. It includes multimodal data from different cameras and microphones, synchronized and complemented by personality test results and experience assessment surveys.</td>
   <td markdown="span">[Koutsombogera and Vogel, 2018](https://aclanthology.org/L18-1466/)</td>
 </tr>
@@ -555,7 +554,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 
 <tr>
-  <td markdown="span">[Movie-Triples](Available upon request)</td>
+  <td markdown="span">Movie-Triples</td>
   <td markdown="span">English</td>
   <td markdown="span">text</td>
   <td markdown="span">text</td>
@@ -592,7 +591,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Television shows and movies</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">1,042,288 dialog pairs (raw), 86,719 dialog pairs (after filtering)</td>
-  <td markdown="span">Not specified</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">This corpus contains conversation pairs extracted from television and movie scripts. The dialogues are filtered to ensure they are between two speakers, using a method called tri-turn filtering and semantic similarity filtering. The final corpus includes 86,719 high-quality query-response pairs.</td>
   <td markdown="span">[Nio et al., 2014](https://ieeexplore.ieee.org/document/7051436)</td>
 </tr>
@@ -607,7 +606,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">TV Series (The Big Bang Theory and Game of Thrones)</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">132 episodes of TBBT, 5 episodes of GoT (manual transcripts), 17 TBBT and 10 GoT episodes (subtitles), 17 TBBT and 10 GoT episodes (automatic transcripts), outlines and summaries for multiple episodes</td>
-  <td markdown="span">Not specified</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">The TVD dataset is built around two TV series, The Big Bang Theory and Game of Thrones, and includes multiple tracks such as manual and automatic transcripts, multilingual subtitles, episode outlines, and various metadata. The dataset is designed for tasks like summarization, scene retrieval, and speech retrieval.</td>
   <td markdown="span">[Roy et al., 2014](https://aclanthology.org/L14-1588/)</td>
 </tr>
@@ -660,14 +659,14 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 
 <tr>
-  <td markdown="span">[Online Chat Corpus](Not provided)</td>
+  <td markdown="span">[NPS Internet Chatroom Conversations](https://catalog.ldc.upenn.edu/LDC2010T05)</td>
   <td markdown="span">English</td>
   <td markdown="span">text</td>
   <td markdown="span">text</td>
   <td markdown="span">General chat, open to any topic</td>
   <td markdown="span">Human-Human</td>
-  <td markdown="span">475K posts</td>
-  <td markdown="span">Not provided</td>
+  <td markdown="span">10K posts, 45K tokens</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">The corpus consists of online chat dialogues collected from various chat rooms, annotated with lexical, syntactic, and discourse information. It was developed to support natural language processing applications such as author profiling, entity identification, and social network analysis.</td>
   <td markdown="span">[Forsyth and Martell, 2007](https://ieeexplore.ieee.org/document/4338328)</td>
 </tr>
@@ -712,7 +711,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">General SMS communication</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">57,824 messages</td>
-  <td markdown="span">Not specified</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">A public SMS corpus focusing on English and Mandarin Chinese SMS messages, collected through crowdsourcing methods.</td>
   <td markdown="span">[Chen and Kan, 2013](https://link.springer.com/article/10.1007/s10579-012-9197-9)</td>
 </tr>
@@ -750,14 +749,14 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 
 <tr>
-  <td markdown="span">[Agreement and Disagreement in Threaded Discussions](Not provided)</td>
+  <td markdown="span">Agreement and Disagreement in Threaded Discussions</td>
   <td markdown="span">English</td>
   <td markdown="span">text</td>
   <td markdown="span">text</td>
   <td markdown="span">Wikipedia discussion forums, LiveJournal weblogs</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">118 unique documents, 810 annotated sentence pairs</td>
-  <td markdown="span">Not explicitly mentioned</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">A corpus of sentence-level agreement and disagreement annotations over threaded discussions on Wikipedia and LiveJournal.</td>
   <td markdown="span">[Andreas et al., 2012](https://aclanthology.org/L12-1650/)</td>
 </tr>
@@ -795,7 +794,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 
 <tr>
-  <td markdown="span">[Multi-Party Chat (MPC) Corpus](N/A)</td>
+  <td markdown="span">[Multi-Party Chat (MPC) Corpus](https://github.com/sashank06/MPC-Corpus)</td>
   <td markdown="span">English</td>
   <td markdown="span">text</td>
   <td markdown="span">text</td>
@@ -817,7 +816,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Technical support for Ubuntu OS</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">11 channels, 40M+ messages, 2.9GB (compressed to 0.6GB)</td>
-  <td markdown="span">Not specified in turns; average message length varies across channels (21.7 to 57.6 characters)</td>
+  <td markdown="span">Average message length varies across channels (21.7 to 57.6 characters)</td>
   <td markdown="span">The Ubuntu Chat Corpus is a large, publicly available corpus consisting of IRC chat logs from various Ubuntu support channels. It includes messages in multiple languages and covers technical discussions related to Ubuntu OS.</td>
   <td markdown="span">[Uthus and Aha, 2013](https://cdn.aaai.org/ocs/5706/5706-24480-1-PB.pdf)</td>
 </tr>
@@ -936,7 +935,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Multiple domains (e.g., restaurant, hotel, taxi)</td>
   <td markdown="span">Human-Wizard-of-Oz</td>
   <td markdown="span">2,000 dialogues, 14,000 turns</td>
-  <td markdown="span">Not explicitly stated</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">MultiWOZ 2.4 is an updated version of the MultiWOZ 2.1 dataset. It includes refined annotations in the validation set and test set to improve the evaluation of dialogue state tracking models, focusing on task-oriented dialogues across multiple domains.</td>
   <td markdown="span">[Ye et al., 2022](https://aclanthology.org/2022.sigdial-1.34/)</td>
 </tr>
@@ -959,7 +958,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 
 <tr>
-  <td markdown="span">[RealPersonaChat (RPC)](N/A)</td>
+  <td markdown="span">[RealPersonaChat (RPC)](https://github.com/nu-dialogue/real-persona-chat)</td>
   <td markdown="span">Japanese</td>
   <td markdown="span">text</td>
   <td markdown="span">text</td>
@@ -1101,7 +1100,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Multiple domains (happy, offmychest)</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">355K conversations</td>
-  <td markdown="span">not explicitly mentioned, but training set has 6 most recent turns per conversation</td>
+  <td markdown="span">Training set has 6 most recent turns per conversation</td>
   <td markdown="span">A large-scale, multi-domain dataset for persona-based empathetic conversations collected from Reddit, focusing on the impact of persona on empathetic responses.</td>
   <td markdown="span">[Zhong et al., 2020](https://aclanthology.org/2020.emnlp-main.531/)</td>
 </tr>
@@ -1266,7 +1265,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Household tasks (navigation and object manipulation)</td>
   <td markdown="span">Human-Agent</td>
   <td markdown="span">53K task-relevant questions and answers</td>
-  <td markdown="span">Not explicitly stated</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">DialFRED is a dialogue-enabled embodied instruction following benchmark that allows an agent to actively ask questions and use the information in the response to better complete household tasks. It is built by augmenting the ALFRED benchmark and includes a human-annotated dataset with 53K task-relevant questions and answers.</td>
   <td markdown="span">[Gao et al., 2022](https://arxiv.org/abs/2202.13330)</td>
 </tr>
@@ -1281,7 +1280,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Tourist information (restaurants, pubs, coffee shops)</td>
   <td markdown="span">Human-System</td>
   <td markdown="span">2,275 dialogs, 17,677 turns</td>
-  <td markdown="span">Not explicitly stated</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">The third Dialog State Tracking Challenge (DSTC3) focused on evaluating the ability of trackers to generalize to new entities, such as new slots and values not present in the training data. The challenge involved human-computer dialogs in the tourist information domain, covering restaurants, pubs, and coffee shops in Cambridge, UK.</td>
   <td markdown="span">[Henderson et al., 2014](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/write_up.pdf)</td>
 </tr>
@@ -1301,20 +1300,6 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">[Zahiri and Choi, 2017](https://arxiv.org/abs/1708.04299)</td>
 </tr>
 
-
-
-<tr>
-  <td markdown="span">[ATIS Spoken Language Systems Pilot Corpus](https://catalog.ldc.upenn.edu/LDC93S4B)</td>
-  <td markdown="span">English</td>
-  <td markdown="span">speech</td>
-  <td markdown="span">audio, text</td>
-  <td markdown="span">Air Travel Information</td>
-  <td markdown="span">Human-Human-Woz</td>
-  <td markdown="span">1041 utterances, 41 sessions</td>
-  <td markdown="span">25.4</td>
-  <td markdown="span">A corpus designed to measure progress in Spoken Language Systems that include both a speech and natural language component, specifically focused on air travel information queries.</td>
-  <td markdown="span">[Charles et al, 1990](https://aclanthology.org/H90-1021/)</td>
-</tr>
 
 
 
