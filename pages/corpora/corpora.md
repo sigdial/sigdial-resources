@@ -651,7 +651,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Multiple domains (legislative texts, administrative texts, movie subtitles, software localization, newspaper texts)</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">Over 40 billion tokens, 2.7 billion parallel units (aligned sentences and sentence fragments)</td>
-  <td markdown="span">None</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">A growing language resource of freely accessible parallel corpora and related tools, used for various applications including machine translation, translation studies, and cross-linguistic corpus studies.</td>
   <td markdown="span">[Tiedemann, 2012](https://aclanthology.org/L12-1246/)</td>
 </tr>
@@ -786,7 +786,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Political debate and discourse</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">390,704 posts in 11,800 discussions</td>
-  <td markdown="span">None</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">A corpus for research on deliberation and debate, containing argumentative discourse from the online debate site 4forums.com. It includes posts on various political and social topics with annotations for topic, stance, and various dialogic and argumentative markers.</td>
   <td markdown="span">[Walker et al., 2012b](https://aclanthology.org/L12-1643/)</td>
 </tr>
@@ -905,7 +905,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Multiple domains (Restaurant, Hotel, Attraction, Taxi, Train, Hospital, Bus, Police)</td>
   <td markdown="span">Human-Wizard-of-Oz (Human-Woz)</td>
   <td markdown="span">10K dialogues, 115K turns</td>
-  <td markdown="span">None</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">MultiWOZ 2.2 is an updated version of the MultiWOZ dataset, with corrections to dialogue state annotations, redefined ontology, and additional slot span annotations. It is used as a benchmark for dialogue state tracking in task-oriented dialogues across multiple domains.</td>
   <td markdown="span">[Zang et al., 2020](https://aclanthology.org/2020.nlp4convai-1.13/)</td>
 </tr>
@@ -1115,7 +1115,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Persona-grounded dialogues</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">Multiple human references</td>
-  <td markdown="span">None</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">PERSONAMINEDIT is a dataset designed to evaluate persona-grounded minimal editing, focusing on editing dialogue responses to improve persona consistency while maintaining coherence with the dialogue history.</td>
   <td markdown="span">[Wu et al., 2021a](https://aclanthology.org/2021.emnlp-main.183/)</td>
 </tr>
@@ -1130,7 +1130,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">Dialogue generation domain</td>
   <td markdown="span">Human-Human</td>
   <td markdown="span">1,595 conversations</td>
-  <td markdown="span">None</td>
+  <td markdown="span">N/A</td>
   <td markdown="span">IT-ConvAI2 is a dataset that emphasizes the out-of-predefined persona (OOP) problem in personalized dialogue generation. It is built by removing query-related personas from the original ConvAI2 dataset.</td>
   <td markdown="span">[Liu et al., 2022](https://dl.acm.org/doi/10.1145/3511808.3557359)</td>
 </tr>

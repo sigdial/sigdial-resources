@@ -1,5 +1,5 @@
 ---
-title: "SIGdial Lists for Discourse and Dialogue Research"
+title: "SIGdial Resource Lists for Discourse and Dialogue Research"
 # keywords: home
 # tags: [home]
 sidebar: mydoc_sidebar
