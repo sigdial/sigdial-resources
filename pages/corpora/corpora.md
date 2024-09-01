@@ -52,7 +52,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">Speech</td>
 <td markdown="span">Audio</td>
 <td markdown="span">Bus schedules</td>
-<td markdown="span">Human-system</td>
+<td markdown="span">Human-System</td>
 <td markdown="span">171K dialogues</td>
 <td markdown="span">N/A</td>
 <td markdown="span">Telephone conversations between real users and bus information systems</td>
@@ -66,7 +66,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">Speech</td>
 <td markdown="span">Transcripts and ASR results</td>
 <td markdown="span">Restaurant search</td>
-<td markdown="span">Human-system</td>
+<td markdown="span">Human-System</td>
 <td markdown="span">15K dialogues, 3.7M words</td>
 <td markdown="span">7.88</td>
 <td markdown="span">Telephone conversations between hired users and restaurant search system</td>
@@ -92,7 +92,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">Face-to-face</td>
 <td markdown="span">Audio, video (not available)</td>
 <td markdown="span">direction giving</td>
-<td markdown="span">Human-human</td>
+<td markdown="span">Human-Human</td>
 <td markdown="span">128 dialogues, 174K words, 18hrs</td>
 <td markdown="span"></td>
 <td markdown="span">A set of 128 dialogues that has been recorded, transcribed, and annotated for a wide range of behaviours, and has been released for research purposes.</td>
@@ -105,7 +105,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">face-to-face</td>
 <td markdown="span">close-talking and far-field microphones, individual and room-view video cameras, projection, a whiteboard, individual pens.</td>
 <td markdown="span">Face-to-face meetings</td>
-<td markdown="span">multi-party human</td>
+<td markdown="span">Multi-party human</td>
 <td markdown="span">175 dialogues, 900K words, 100hrs</td>
 <td markdown="span"></td>
 <td markdown="span">A multi-modal data set consisting of 100 hours of meeting recordings</td>
@@ -118,7 +118,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">IRC chat</td>
 <td markdown="span">text</td>
 <td markdown="span">Chat on Ubuntu</td>
-<td markdown="span">human-human</td>
+<td markdown="span">Human-Human</td>
 <td markdown="span">930K dialogues, 100M words</td>
 <td markdown="span">7.71</td>
 <td markdown="span">Dialogues extracted from Ubuntu chat stream on IRC</td>
@@ -131,7 +131,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">Text</td>
 <td markdown="span">Text</td>
 <td markdown="span">Daily communication</td>
-<td markdown="span">Human-human</td>
+<td markdown="span">Human-Human</td>
 <td markdown="span">13K dialogues, 1.5M words</td>
 <td markdown="span">7.9</td>
 <td markdown="span">DailyDialog is a high-quality multi-turn dialogue dataset that covers conversations about daily life. It is manually labeled with communication intention and emotion information, making it useful for training and evaluating dialogue systems.</td>
@@ -145,7 +145,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">Chat text</td>
 <td markdown="span">Text</td>
 <td markdown="span">Open domain</td>
-<td markdown="span">Human-human</td>
+<td markdown="span">Human-Human</td>
 <td markdown="span">11K dialogues, 162K utterances</td>
 <td markdown="span"></td>
 <td markdown="span">A chit-chat dataset where paired Turkers are given assigned personas and chat to try to get to know each other. </td>
@@ -158,7 +158,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">Text</td>
 <td markdown="span">Text</td>
 <td markdown="span">16 domains</td>
-<td markdown="span">Human-Virtual Agent</td>
+<td markdown="span">Human-System</td>
 <td markdown="span">16K dialogues, 330K turns</td>
 <td markdown="span"></td>
 <td markdown="span">The dataset consists of conversations between a virtual assistant and a user ranging over a variety of domains including Travel, Events, Payment, Media, Restaurants, Weather etc. Annotations for natural language understanding, dialogue state tracking, policy learning, natural language generation and user simulation learning are also included.</td>
@@ -260,7 +260,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">speech</td>
   <td markdown="span">text</td>
   <td markdown="span">Bus timetable information</td>
-  <td markdown="span">Human-Computer</td>
+  <td markdown="span">Human-System</td>
   <td markdown="span">15K transcribed and labeled human-computer dialogs</td>
   <td markdown="span">Varies by dataset; e.g., TRAIN1A: 14.7, TEST4: 10.9</td>
   <td markdown="span">A corpus of 15,000 human-computer dialogue interactions used for evaluating dialogue systems, specifically focusing on the task of dialog state tracking. The corpus contains dialogs from various dialog systems interacting with real users, collected under the Spoken Dialog Challenge hosted by Carnegie Mellon University.</td>
@@ -304,7 +304,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">speech</td>
   <td markdown="span">audio</td>
   <td markdown="span">Open-domain</td>
-  <td markdown="span">Human-Computer</td>
+  <td markdown="span">Human-System</td>
   <td markdown="span">582 dialogs, 5360 user queries, 6 hours of user speech</td>
   <td markdown="span">9</td>
   <td markdown="span">The RITEL Corpus is a Human-Computer open-domain question answering spoken dialog corpus that includes orthographically transcribed and annotated dialogues focusing on specific entities and topics. It involves a real interaction system rather than a Wizard-of-Oz setup.</td>
@@ -888,7 +888,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">text</td>
   <td markdown="span">text</td>
   <td markdown="span">Multiple domains (hotel, taxi, restaurant, etc.)</td>
-  <td markdown="span">Human-Wizard of Oz (Human-Woz)</td>
+  <td markdown="span">Human-Woz</td>
   <td markdown="span">10K dialogues, over 115K turns</td>
   <td markdown="span">11.5</td>
   <td markdown="span">MultiWOZ 2.1 is a multi-domain dialogue dataset with corrections in state annotations and dialogue utterances, building on the original MultiWOZ 2.0. It includes system and user dialogue acts and offers a benchmark for dialogue state tracking models.</td>
@@ -903,7 +903,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">text</td>
   <td markdown="span">text</td>
   <td markdown="span">Multiple domains (Restaurant, Hotel, Attraction, Taxi, Train, Hospital, Bus, Police)</td>
-  <td markdown="span">Human-Wizard-of-Oz (Human-Woz)</td>
+  <td markdown="span">Human-Woz</td>
   <td markdown="span">10K dialogues, 115K turns</td>
   <td markdown="span">N/A</td>
   <td markdown="span">MultiWOZ 2.2 is an updated version of the MultiWOZ dataset, with corrections to dialogue state annotations, redefined ontology, and additional slot span annotations. It is used as a benchmark for dialogue state tracking in task-oriented dialogues across multiple domains.</td>
@@ -933,7 +933,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">text</td>
   <td markdown="span">text</td>
   <td markdown="span">Multiple domains (e.g., restaurant, hotel, taxi)</td>
-  <td markdown="span">Human-Wizard-of-Oz</td>
+  <td markdown="span">Human-Woz</td>
   <td markdown="span">2,000 dialogues, 14,000 turns</td>
   <td markdown="span">N/A</td>
   <td markdown="span">MultiWOZ 2.4 is an updated version of the MultiWOZ 2.1 dataset. It includes refined annotations in the validation set and test set to improve the evaluation of dialogue state tracking models, focusing on task-oriented dialogues across multiple domains.</td>
@@ -948,7 +948,7 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
   <td markdown="span">text</td>
   <td markdown="span">text</td>
   <td markdown="span">travel-related domains (tourist attractions, accommodation, restaurants, shopping facilities, taxis, weather)</td>
-  <td markdown="span">Human-Wizard</td>
+  <td markdown="span">Human-Woz</td>
   <td markdown="span">4,246 dialogues, 61,186 turns, 1.1M tokens</td>
   <td markdown="span">14.4</td>
   <td markdown="span">A large-scale Japanese multi-domain task-oriented dialogue dataset focused on travel-related domains.</td>
