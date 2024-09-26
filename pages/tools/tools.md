@@ -86,7 +86,7 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 
 <tr>
 <td markdown="span">[Virtual Human Toolkit](https://vhtoolkit.ict.usc.edu/)</td>
-<td markdown="span">Annotation</td>
+<td markdown="span">Multimodal dialouge system development</td>
 <td markdown="span">University of Southern California (USC) Institute for Creative Technologies (ICT) </td>
 <td markdown="span"></td>
 <td markdown="span">A collection of modules, tools, and libraries designed to aid and support researchers and developers with the creation of virtual human conversational characters.
