@@ -72,7 +72,7 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">Dialogue system development</td>
 <td markdown="span">C4A Research Institute, Inc.</td>
 <td markdown="span">Python</td>
-<td markdown="span">A framework for building dialogue systems. It has been develped as an information technology educational material.</td>
+<td markdown="span">A framework for building dialogue systems. It has been developed as an information technology educational material.</td>
 </tr>
 
 <tr>
