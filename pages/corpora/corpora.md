@@ -10,7 +10,7 @@ permalink: corpora.html
 folder: corpora
 ---
 
-Parts of the contents of the list are extracted from the papers using ChatGPT, so they might be wrong. If you find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/corpora/corpora.md).). If you don't have an account on GitHub, please email at `mikio.nakano (at) c4a.jp`.
+Parts of the contents of the list are extracted from the papers using ChatGPT, so they might be wrong. If you find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/corpora/corpora.md).). If you don't have an account on GitHub, please email at [resources@sigdial.org](<resources@sigdial.org>).
 
 Parts of this list have been adapted from [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/abs/1512.05742), with permission; see the [survey website](https://breakend.github.io/DialogDatasets/) for reference and please cite the paper if useful.
 

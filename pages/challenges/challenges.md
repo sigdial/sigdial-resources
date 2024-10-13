@@ -10,7 +10,7 @@ permalink: challenges.html
 folder: challenges
 ---
 
-If you add other challenges or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/challenges/challenges.md).). If you don't have an account on GitHub, please email at `mikio.nakano (at) c4a.jp`.
+If you add other challenges or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/challenges/challenges.md).). If you don't have an account on GitHub, please email at [resources@sigdial.org](<resources@sigdial.org>)`.
 
 <div class="datatable-begin"></div>
 <table>
