@@ -10,7 +10,7 @@ permalink: tools.html
 folder: tools
 ---
 
-If you want to add other tools or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/tools/tools.md).).If you don't have an account on GitHub, please email at [resources@sigdial.org](<resources@sigdial.org>).
+If you want to add other tools or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/tools/tools.md).).If you don't have an account on GitHub, please email at <resources@sigdial.org>.
 
 
 <div class="datatable-begin"></div>
