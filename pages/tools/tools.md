@@ -105,7 +105,7 @@ https://aclanthology.org/2024.sigdial-1.56/
 <td markdown="span">A collection of modules, tools, and libraries designed to aid and support researchers and developers with the creation of virtual human conversational characters.
 Designed for easy mixing and matching with a research project's proprietary or 3rd-party software, the Toolkit provides a widely accepted platform on which new technologies can be built. It is our hope that, together as a research community, we can further develop and explore virtual human research and technologies.
 </td>
-<td markdown="span">[]()</td>
+<td markdown="span">[Hartholt et al. 2022](https://dl.acm.org/doi/10.1145/3514197.3549671)</td>
 </tr>
 
 
