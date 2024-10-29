@@ -47,9 +47,10 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">Dialogue system development</td>
 <td markdown="span">University of Oslo</td>
 <td markdown="span">Java</td>
-<td markdown="span">A Java-based, domain-independent toolkit for developing spoken dialogue systems.<td markdown="span">[Lison and Kennington, 2016](https://aclanthology.org/P16-4012/)</td>
- </td>
+<td markdown="span">A Java-based, domain-independent toolkit for developing spoken dialogue systems. </td>
+<td markdown="span">[Lison and Kennington, 2016](https://aclanthology.org/P16-4012/)</td>
 </tr>
+
 <tr>
 <td markdown="span">[Rasa Open Source](https://rasa.com/docs/rasa/)</td>
 <td markdown="span">Dialogue system development</td>
@@ -58,6 +59,7 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">The most popular open source framework for building chat and voice-based AI assistants.</td>
 <td markdown="span">[Bocklisch et al., 2017](https://arxiv.org/abs/1712.05181)</td>
 </tr>
+
 <tr>
 <td markdown="span">[ConvLab](https://convlab.github.io/)</td>
 <td markdown="span">Dialogue system development</td>
@@ -74,6 +76,7 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">The standard developer stack to build, run, and improve conversational AI applications. </td>
 <td markdown="span"></td>
 </tr>
+
 <tr>
 <td markdown="span">[DialBB](https://github.com/c4a-ri/dialbb)</td>
 <td markdown="span">Dialogue system development</td>
@@ -90,7 +93,6 @@ https://aclanthology.org/2024.sigdial-1.56/
 <td markdown="span">Max Planck Institute for Psycholinguistics</td>
 <td markdown="span">Java</td>
 <td markdown="span">Enables adding an unlimited number of textual annotations to audio and/or video recordings. An annotation can be a sentence, word or gloss, a comment, translation or a description of any feature observed in the media. Annotations can be created on multiple layers, called tiers. Tiers can be hierarchically interconnected. An annotation can either be time-aligned to the media or it can refer to other existing annotations. The content of annotations consists of Unicode text and annotation documents are stored in an XML format (EAF).</td>
-<td markdown="span"></td>
 <td markdown="span">[Wittenburg et al. 2006](https://aclanthology.org/L06-1082/)</td>
 </tr>
 
