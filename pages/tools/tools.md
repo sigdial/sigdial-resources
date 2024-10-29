@@ -20,15 +20,17 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <col width="15%" />
 <col width="15%" />
 <col width="15%" />
-<col width="40%" />
+<col width="25%" />
+<col width="15%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th>Name</th>
-<th>Objective</th>
+<th>Category</th>
 <th>Developer</th>
 <th>Programming Language</th>
 <th>Belief Description</th>
+<th>Paper</th>
 </tr>
 </thead>
 <tbody>
@@ -38,13 +40,15 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">Cambridge University</td>
 <td markdown="span">Python</td>
 <td markdown="span">An open-source end-to-end statistical spoken dialogue system toolkit which provides implementations of statistical approaches for all dialogue system modules. </td>
+<td markdown="span">[Ultes et al. 2017](https://aclanthology.org/P17-4013/)</td>
 </tr>
 <tr>
 <td markdown="span">[OpenDial](https://sites.google.com/site/opendialtoolkit)</td>
 <td markdown="span">Dialogue system development</td>
 <td markdown="span">University of Oslo</td>
 <td markdown="span">Java</td>
-<td markdown="span">A Java-based, domain-independent toolkit for developing spoken dialogue systems. </td>
+<td markdown="span">A Java-based, domain-independent toolkit for developing spoken dialogue systems.<td markdown="span">[Lison and Kennington, 2016](https://aclanthology.org/P16-4012/)</td>
+ </td>
 </tr>
 <tr>
 <td markdown="span">[Rasa Open Source](https://rasa.com/docs/rasa/)</td>
@@ -52,6 +56,7 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">Rasa Technologies</td>
 <td markdown="span">Python</td>
 <td markdown="span">The most popular open source framework for building chat and voice-based AI assistants.</td>
+<td markdown="span">[Bocklisch et al., 2017](https://arxiv.org/abs/1712.05181)</td>
 </tr>
 <tr>
 <td markdown="span">[ConvLab](https://convlab.github.io/)</td>
@@ -59,6 +64,7 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">Tsinghua University Conversational AI group (THU-coai) and Microsoft Research (MSR)</td>
 <td markdown="span">Python</td>
 <td markdown="span">A flexible dialog system platform based on a unified data format for task-oriented dialog (TOD) datasets.</td>
+<td markdown="span">[Zhu et al. 2023](https://aclanthology.org/2023.emnlp-demo.9/)</td>
 </tr>
 <tr>
 <td markdown="span">[BotPress](https://github.com/botpress)</td>
@@ -66,6 +72,7 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">Botpress, Inc.</td>
 <td markdown="span">TypeScript</td>
 <td markdown="span">The standard developer stack to build, run, and improve conversational AI applications. </td>
+<td markdown="span"></td>
 </tr>
 <tr>
 <td markdown="span">[DialBB](https://github.com/c4a-ri/dialbb)</td>
@@ -73,6 +80,8 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">C4A Research Institute, Inc.</td>
 <td markdown="span">Python</td>
 <td markdown="span">A framework for building dialogue systems. It has been developed as an information technology educational material.</td>
+https://aclanthology.org/2024.sigdial-1.56/
+<td markdown="span">[Nakano et al. 2024](https://aclanthology.org/2024.sigdial-1.56/)</td>
 </tr>
 
 <tr>
@@ -81,6 +90,8 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">Max Planck Institute for Psycholinguistics</td>
 <td markdown="span">Java</td>
 <td markdown="span">Enables adding an unlimited number of textual annotations to audio and/or video recordings. An annotation can be a sentence, word or gloss, a comment, translation or a description of any feature observed in the media. Annotations can be created on multiple layers, called tiers. Tiers can be hierarchically interconnected. An annotation can either be time-aligned to the media or it can refer to other existing annotations. The content of annotations consists of Unicode text and annotation documents are stored in an XML format (EAF).</td>
+<td markdown="span"></td>
+<td markdown="span">[Wittenburg et al. 2006](https://aclanthology.org/L06-1082/)</td>
 </tr>
 
 
@@ -92,6 +103,7 @@ If you want to add other tools or find errors, please create GitHub [issues](htt
 <td markdown="span">A collection of modules, tools, and libraries designed to aid and support researchers and developers with the creation of virtual human conversational characters.
 Designed for easy mixing and matching with a research project's proprietary or 3rd-party software, the Toolkit provides a widely accepted platform on which new technologies can be built. It is our hope that, together as a research community, we can further develop and explore virtual human research and technologies.
 </td>
+<td markdown="span">[]()</td>
 </tr>
 
 
