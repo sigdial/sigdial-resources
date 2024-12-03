@@ -1301,6 +1301,19 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 </tr>
 
 
+<tr>
+<td markdown="span">[Hazumi](https://www.nii.ac.jp/dsc/idr/en/rdata/Hazumi/)</td>
+<td markdown="span">Japanese</td>
+<td markdown="span">multimodal</td>
+<td markdown="span">text, audio, video, posture, physiological data</td>
+<td markdown="span">chit-chat (food, travel, etc.)</td>
+<td markdown="span">Human-WoZ</td>
+<td markdown="span">
+214 dialogues (15 to 20 minutes), 18,162 exchanges</td>
+<td markdown="span">84.9</td>
+<td markdown="span">A multimodal dialogue corpus with various manual annotations, including those provided by five third-party annotators as well as those given by the participants themselves. The corpus also includes physiological data.</td>
+<td markdown="span">[Komatani and Okada, 2021](https://doi.org/10.1109/ACII52823.2021.9597447)</td>
+</tr>
 
 
 </tbody>
