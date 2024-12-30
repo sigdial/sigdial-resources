@@ -13,6 +13,9 @@ folder: tools
 If you want to add other tools or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/tools/tools.md).).If you don't have an account on GitHub, please email at <resources@sigdial.org>.
 
 
+Part of this list was ported from DialPort resource list. We thank DialPort and National Science Foundation.
+
+
 <div class="datatable-begin"></div>
 <table>
 <colgroup>
@@ -108,10 +111,87 @@ Designed for easy mixing and matching with a research project's proprietary or 3
 <td markdown="span">[Hartholt et al. 2022](https://dl.acm.org/doi/10.1145/3514197.3549671)</td>
 </tr>
 
+<tr>
+<td markdown="span">[Apache OpenNLP](https://opennlp.apache.org/)</td>
+<td markdown="span">Text processing</td>
+<td markdown="span">The Apache Software Foundation</td>
+<td markdown="span">Java</td>
+<td markdown="span">OpenNLP supports the most common NLP tasks, such as sentence segmentation, tokenization, lemmatization, part-of-speech tagging, named entity extraction, chunking, parsing, language detection and coreference resolution.
+</td>
+<td markdown="span"></td>
+</tr>
+
+<tr>
+<td markdown="span">[Stanford CoreNLP](https://opennlp.apache.org/)</td>
+<td markdown="span">Text processing</td>
+<td markdown="span">Stanford NLP Group</td>
+<td markdown="span">Java</td>
+<td markdown="span">CoreNLP enables users to derive linguistic annotations for text, including token and sentence boundaries, parts of speech, named entities, numeric and time values, dependency and constituency parses, coreference, sentiment, quote attributions, and relations. CoreNLP currently supports 8 languages: Arabic, Chinese, English, French, German, Hungarian, Italian, and Spanish.
+</td>
+<td markdown="span"></td>
+</tr>
+
+<tr>
+<td markdown="span">[NPCEditor](https://vhtoolkit.ict.usc.edu/VHTK-doc/NPCEditor_14582020.html)</td>
+<td markdown="span">Multimodal dialouge system development</td>
+<td markdown="span">University of Southern California (USC) Institute for Creative Technologies (ICT) </td>
+<td markdown="span">Java/Groovy</td>
+<td markdown="span">NPCEditor controls the spoken behavior of the characters in the Virtul Human Toolkit, as well as the structure and logic of the interaction through its dialog manager. It contains a list of user  "Questions" and character "Answers", and the links between them. NPCEditor uses a statistical text classifier to determine the best character response to novel user input, allowing users to converse with the characters with reduced authoring effort. 
+</td>
+<td markdown="span">[Leuski and Traum, 2010](https://aclanthology.org/L10-1449/)</td>
+</tr>
+
+
+<tr>
+<td markdown="span">[MultiSense](https://vhtoolkit.ict.usc.edu/VHTK-doc/MultiSense_14582169.html)</td>
+<td markdown="span"></td>
+<td markdown="span">University of Southern California (USC) Institute for Creative Technologies (ICT) </td>
+<td markdown="span"></td>
+<td markdown="span">MultiSense is a perception framework that enables multiple sensing and understanding modules to inter-operate simultaneously, broadcasting data through the Perception Markup Language.
+</td>
+<td markdown="span">[Stratou and Morency, 2017](https://ieeexplore.ieee.org/document/7579221)</td>
+</tr>
+
+
+<!--
+
+libsvm
+https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+
+nltk
+
+gensim
+
+
+Roundtable ??
+
+WoZ toolkit
+
+ConvoKit
+
+Whisper
+
+SpaCy
+
+
+
+memo for David:
+
+- couldn't find info on roundtable
+
+- I added 
+
+- libsvm is no longer used
+  instead i will add nltk, scikit-learn
+
+-->
+
 
 </tbody>
 </table>
 <div class="datatable-end"></div>
+
+
 
 
 <!--
