@@ -10,7 +10,7 @@ permalink: tools.html
 folder: tools
 ---
 
-If you want to add other tools or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/tools/tools.md).).If you don't have an account on GitHub, please email at <resources@sigdial.org>.
+If you want to add other tools or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/tools/tools.md).). If you don't have an account on GitHub, please email at <resources@sigdial.org>.
 
 
 Part of this list was ported from DialPort resource list. We thank DialPort and National Science Foundation.
@@ -144,7 +144,7 @@ Designed for easy mixing and matching with a research project's proprietary or 3
 
 <tr>
 <td markdown="span">[MultiSense](https://vhtoolkit.ict.usc.edu/VHTK-doc/MultiSense_14582169.html)</td>
-<td markdown="span"></td>
+<td markdown="span">Multimodal dialouge system development</td>
 <td markdown="span">University of Southern California (USC) Institute for Creative Technologies (ICT) </td>
 <td markdown="span"></td>
 <td markdown="span">MultiSense is a perception framework that enables multiple sensing and understanding modules to inter-operate simultaneously, broadcasting data through the Perception Markup Language.
