@@ -13,7 +13,7 @@ folder: tools
 If you want to add other tools or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/tools/tools.md).). If you don't have an account on GitHub, please email at <resources@sigdial.org>.
 
 
-Part of this list was ported from DialPort resource list. We thank DialPort and National Science Foundation.
+Part of this list was adapted from the DialPort resource list. We thank DialPort and the National Science Foundation.
 
 
 <div class="datatable-begin"></div>
@@ -167,7 +167,6 @@ Roundtable ??
 
 WoZ toolkit
 
-ConvoKit
 
 Whisper
 
@@ -182,7 +181,10 @@ memo for David:
 - I added 
 
 - libsvm is no longer used
-  instead i will add nltk, scikit-learn
+  instead i will add nltk, scikit-learn, gensim
+
+ConvoKit
+
 
 -->
 
