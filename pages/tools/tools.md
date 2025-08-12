@@ -160,32 +160,14 @@ libsvm
 https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 
 nltk
-
 gensim
-
-
-Roundtable ??
-
+Roundtable 
 WoZ toolkit
-
-
 Whisper
-
 SpaCy
-
-
-
-memo for David:
-
-- couldn't find info on roundtable
-
-- I added 
-
-- libsvm is no longer used
-  instead i will add nltk, scikit-learn, gensim
-
 ConvoKit
-
+Retico
+Pyannote.audio
 
 -->
 

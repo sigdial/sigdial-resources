@@ -1315,6 +1315,18 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">[Komatani and Okada, 2021](https://doi.org/10.1109/ACII52823.2021.9597447)</td>
 </tr>
 
+<tr>
+<td markdown="span">[KokoroChat](https://github.com/UEC-InabaLab/KokoroChat)</td>
+<td markdown="span">Japanese</td>
+<td markdown="span">Text (role-play)</td>
+<td markdown="span">Text</td>
+<td markdown="span">Psychological counseling</td>
+<td markdown="span">Human-Human (trained counselor role-play)</td>
+<td markdown="span">6,589 dialogues</td>
+<td markdown="span">~91.2 utterances per dialogue</td>
+<td markdown="span">A high-quality, human-collected Japanese psychological counseling dialogue dataset where trained counselors simulate both client and counselor in one-hour text-based sessions, with detailed client feedback per session (20 rating items).</td>
+<td markdown="span">[Qi et al., 2025](https://aclanthology.org/2025.acl-long.608)</td>
+</tr>
 
 </tbody>
 </table>
