@@ -1328,6 +1328,184 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 <td markdown="span">[Qi et al., 2025](https://aclanthology.org/2025.acl-long.608)</td>
 </tr>
 
+<tr>
+<td markdown="span">[Switchboard Telephone Speech Corpus (Switchboard-1)](https://ieeexplore.ieee.org/document/225858)</td>
+<td markdown="span">English</td>
+<td markdown="span">Speech (telephone conversations)</td>
+<td markdown="span">Audio, transcripts</td>
+<td markdown="span">Open-domain conversational speech</td>
+<td markdown="span">Human-Human</td>
+<td markdown="span">Approximately 2,400 dialogues (~260 hours of speech; ~3 million words)</td>
+<td markdown="span">~6 minutes per dialogue (i.e., ~12 turns typical) — average not explicitly given</td>
+<td markdown="span">Spontaneous two-speaker telephone conversations across roughly 70 topics, fully transcribed and time-aligned, with speaker demographics and call metadata recorded for speech technology and linguistic research</td>
+<td markdown="span">[Godfrey et al., 1992](https://ieeexplore.ieee.org/document/225858)</td>
+</tr>
+
+<tr>
+<td markdown="span">[CALLHOME American English Speech (LDC97S42)](https://catalog.ldc.upenn.edu/LDC97S42)</td>
+<td markdown="span">English</td>
+<td markdown="span">Speech (telephone conversations)</td>
+<td markdown="span">Audio (2-channel μ-law at 8 kHz), with optional transcripts (LDC97T14)</td>
+<td markdown="span">Open-domain personal telephone conversations</td>
+<td markdown="span">Human-Human</td>
+<td markdown="span">120 dialogues (~30 minutes each; ~60 hours total)</td>
+<td markdown="span">N/A (unspecified average turns)</td>
+<td markdown="span">Unscripted telephone calls between native speakers, mostly family or friends, fully recorded and documented for ASR research.</td>
+<td markdown="span">[Canavan et al., 1997](https://doi.org/10.35111/exq3-x930)</td>
+</tr>
+
+
+<tr>
+<td markdown="span">[CALLFRIEND American English-Non-Southern Dialect (LDC96S46)](https://catalog.ldc.upenn.edu/LDC96S46)</td>
+<td markdown="span">English</td>
+<td markdown="span">Speech (telephone conversations)</td>
+<td markdown="span">Audio (2-channel μ-law at 8 kHz)</td>
+<td markdown="span">Open-domain conversational speech</td>
+<td markdown="span">Human-Human</td>
+<td markdown="span">60 dialogues, each 5–30 minutes (up to ~30 minutes each)</td>
+<td markdown="span">N/A (not specified)</td>
+<td markdown="span">Unscripted telephone conversations between native speakers of non-Southern American English, with metadata such as speaker demographics and call quality, collected for language identification research</td>
+<td markdown="span">[Canavan & Zipperlen, 1996](https://doi.org/10.35111/d37s-c536)</td>
+</tr>
+
+
+<tr>
+<td markdown="span">[Loqui Human-Human Dialogue Corpus (Transcriptions and Annotations)](https://academiccommons.columbia.edu/doi/10.7916/D82R3PW9)</td>
+<td markdown="span">English</td>
+<td markdown="span">Telephone speech (Human-Human)</td>
+<td markdown="span">Audio transcripts with dialogue-act annotations</td>
+<td markdown="span">Library book-request dialogues</td>
+<td markdown="span">Human-Human (patron–librarian)</td>
+<td markdown="span">82 dialogues (subset of 175 recorded)</td>
+<td markdown="span">N/A (not specified average turns)</td>
+<td markdown="span">Two-party unscripted telephone conversations between library patrons and librarians at a library, annotated with dialogue acts and links between discourse functional units to study conversational structure.</td>
+<td markdown="span">[Passonneau & Sachar, 2014](https://doi.org/10.7916/D82R3PW9)</td>
+</tr>
+
+<tr>
+<td markdown="span">The HUMAINE Database</td>
+<td markdown="span">English/French/German</td>
+<td markdown="span">Multimodal</td>
+<td markdown="span">Video, audio, annotations</td>
+<td markdown="span">Emotional expressions (naturalistic and induced)</td>
+<td markdown="span">Human (spontaneous/emotional behaviors) – Data clips</td>
+<td markdown="span">50 annotated clips</td>
+<td markdown="span">N/A</td>
+<td markdown="span">A curated set of emotional clips captured in multiple modalities and systematically annotated to support affective computing research, with both naturalistic and induced emotion samples labeled at global and frame-level</td>
+<td markdown="span">[Douglas-Cowie et al., 2007](https://link.springer.com/chapter/10.1007/978-3-540-74889-2_43)</td>
+</tr>
+
+
+<tr>
+<td markdown="span">[Corpus of Spoken Professional American-English (CSPA)](https://www.athel.com/cpsa.html)</td>
+<td markdown="span">English</td>
+<td markdown="span">Speech transcripts</td>
+<td markdown="span">Text (transcripts)</td>
+<td markdown="span">Professional domain: academic meetings and press conferences</td>
+<td markdown="span">Human-Human (various professional speakers)</td>
+<td markdown="span">~2 million words across two sub-corpora of ~1 million words each (17 files)</td>
+<td markdown="span">N/A</td>
+<td markdown="span">Transcripts of unscripted spoken interactions—mainly faculty council and committee meetings, and White House press conferences—minimally coded to retain hesitations and disfluencies.</td>
+<td markdown="span">[Barlow, 2000](http://www.athel.com/corpdes.html)</td>
+</tr>
+
+
+<tr>
+<td markdown="span">MAHNOB HMI iBUG Mimicry database</td>
+<td markdown="span">English</td>
+<td markdown="span">Multimodal (recorded human-to-human interaction)</td>
+<td markdown="span">Video, audio, synchronized interaction data</td>
+<td markdown="span">Human mimicry / interaction behavior</td>
+<td markdown="span">Human-Human dyadic</td>
+<td markdown="span">Not specified</td>
+<td markdown="span">N/A</td>
+<td markdown="span">A precisely synchronized multimodal dataset capturing natural human-to-human interactions aimed at analyzing and automatically detecting mimicry</td>
+<td markdown="span">[Sun et al., 2011](https://dl.acm.org/doi/10.5555/2062780.2062822)</td>
+</tr>
+
+<tr>
+<td markdown="span">SEMAINE Corpus of Emotionally Coloured Character Interactions</td>
+<td markdown="span">English</td>
+<td markdown="span">Multimodal</td>
+<td markdown="span">Video, audio, transcripts, affect annotations</td>
+<td markdown="span">Emotionally coloured conversational interaction</td>
+<td markdown="span">Human–Character (actor operator playing SAL roles)</td>
+<td markdown="span">~150 participants, 959 interactions (~5 min each)</td>
+<td markdown="span">N/A</td>
+<td markdown="span">High-quality audiovisual recordings of users interacting with “Sensitive Artificial Listener” characters in emotionally evocative roles, synchronously recorded with multiple cameras and microphones, fully transcribed and annotated on affective dimensions</td>
+<td markdown="span">[McKeown et al., 2010](https://dl.acm.org/doi/10.1109/ICME.2010.5583006)</td>
+</tr>
+
+<tr>
+<td markdown="span">Verbmobil Corpus (appointment-making dialogues)</td>
+<td markdown="span">German, English, Japanese</td>
+<td markdown="span">Speech (telephone and face-to-face dialogues)</td>
+<td markdown="span">Audio recordings, transcripts, treebank annotations</td>
+<td markdown="span">Appointment scheduling, travel/hotel planning (task-oriented domains)</td>
+<td markdown="span">Human-Human</td>
+<td markdown="span">German: 2,194 dialogues, 31,054 turns (VM I); plus TüBa-D/S ~38K sentences (360 K words), TüBa-E/S ~30K sentences, TüBa-J/S ~18K sentences</td>
+<td markdown="span">~14.2 turns per dialogue (German example)</td>
+<td markdown="span">Spontaneous, task-oriented dialogues collected under controlled appointment scheduling scenarios, with multimodal collection constraints (e.g., push-to-talk) and rich annotations including transliteration and syntactic treebanks for spontaneous speech.</td>
+<td markdown="span">[Wahlster et al., 2000](https://link.springer.com/chapter/10.1007/978-3-540-74889-2_43)</td>
+</tr>
+
+<tr>
+<td markdown="span">[COLT – The Bergen Corpus of London Teenage Language](http://korpus.uib.no/icame/colt/)</td>
+<td markdown="span">English</td>
+<td markdown="span">Speech (audio recordings with transcripts)</td>
+<td markdown="span">Audio, orthographic and prosodic transcripts, POS tagging</td>
+<td markdown="span">Spontaneous teenage talk (informal, conversational)</td>
+<td markdown="span">Human-Human (peer teenage conversations)</td>
+<td markdown="span">~500,000 words from recordings by 31 teenagers</td>
+<td markdown="span">N/A</td>
+<td markdown="span">Spontaneous conversational language of 13–17-year-old London teens captured via walkman devices, transcribed and POS-tagged for sociolinguistic and discourse analyses.</td>
+<td markdown="span">[Stenström et al., 2002 (COLT project)](http://korpus.uib.no/icame/colt/)</td>
+</tr>
+
+
+<tr>
+<td markdown="span">AICO Multimodal Corpus</td>
+<td markdown="span">English</td>
+<td markdown="span">Multimodal</td>
+<td markdown="span">Video, audio, eye-gaze (Kinect), and transcripts</td>
+<td markdown="span">Human-human and human-robot interaction (task-based & casual dialogue)</td>
+<td markdown="span">Human-Human and Human-Robot dyads</td>
+<td markdown="span">Not specified exactly</td>
+<td markdown="span">N/A</td>
+<td markdown="span">A systematically collected multimodal dataset capturing both human–human and human–robot interactions, designed to study engagement, attention, and multimodal behavior—specifically eye-gaze and gesture—during task-based as well as casual dialogues with a Nao robot partner.</td>
+<td markdown="span">[Jokinen, 2020](https://aclanthology.org/2020.lrec-1.70/)</td>
+</tr>
+
+<tr>
+<td markdown="span">[BinD – Science Tokyo Multimodal Dialogue Corpus with Respiration Signals](https://github.com/fnkslab/BinD/)</td>
+<td markdown="span">Japanese (likely primary, but can include bilingual components)</td>
+<td markdown="span">Multimodal</td>
+<td markdown="span">Video (front-facing), audio, respiration signals (csv), heart-rate signals (csv), questionnaire data (tsv)</td>
+<td markdown="span">Spontaneous two-party human dialogues</td>
+<td markdown="span">Human-Human dyads (72 participants – 36 pairs: 18 friends, 18 strangers)</td>
+<td markdown="span">36 pairs × 5 sessions; each session 10–15 minutes (total ~180–270 sessions)</td>
+<td markdown="span">N/A</td>
+<td markdown="span">Conversational recordings of dyads, capturing synchronized audiovisual data plus physiological signals (respiration and heart rate) and pre/post-session questionnaires—designed to support multimodal dialogue and affective computing research.</td>
+<td markdown="span">[Funakoshi & Obi, 2025](https://doi.org/10.32130/rdata.11.1)</td>
+</tr>
+
+
+<tr>
+<td markdown="span">[Dependency Dialogue Act Corpus](https://github.com/NSF-iSAT/DDA-corpus)</td>
+<td markdown="span">English</td>
+<td markdown="span">Text (multi-party dialogues)</td>
+<td markdown="span">Text transcripts with dialogue-act annotations (Dependency Dialogue Acts framework)</td>
+<td markdown="span">Classroom discussions, board games, and online game chat (multi-genre)</td>
+<td markdown="span">Human-Human multi-party interactions</td>
+<td markdown="span">33 dialogues, over 9,000 utterance units</td>
+<td markdown="span">N/A (not specified separately)</td>
+<td markdown="span">A dense annotation of multi-party conversational data across four genres—physics and engineering classroom discussions, board game interactions, and online game chat—using the Dependency Dialogue Acts framework, with double annotation and adjudication for high consistency.</td>
+<td markdown="span">[Cai et al., 2025](https://aclanthology.org/2025.findings-acl.1032/)</td>
+</tr>
+
+
+
+
 </tbody>
 </table>
 <div class="datatable-end"></div>
