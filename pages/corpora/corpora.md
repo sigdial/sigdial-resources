@@ -1644,6 +1644,21 @@ We also referred to the survey paper [On the Need for Thoughtful Data Collection
 </tr>
 
 
+<tr>
+<td markdown="span">[CoMuMDR: Code-mixed Multi-modal Multi-domain corpus for Discourse Parsing in Conversations](https://github.com/Exploration-Lab/CoMuMDR)</td>
+<td markdown="span">Hindi + English (code-mixed: Hinglish)</td>
+<td markdown="span">Multimodal</td>
+<td markdown="span">Audio, Text (transcriptions)</td>
+<td markdown="span">Multiple customer-support domains (e-commerce, pharmaceutical, stock broker applications, e-marketplace, education)</td>
+<td markdown="span">Human-Human (two-party call-center dialogues)</td>
+<td markdown="span">799 dialogues, 8,811 utterances, ~79,867 words</td>
+<td markdown="span">~11.03 utterances per dialogue</td>
+<td markdown="span">A real-world, code-mixed (Hindi/English) multimodal corpus of customer call-center interactions across multiple domains, annotated at the span level with nine discourse relations, forming directed discourse graphs—reflecting genuine noisy ASR and diarization conditions.</td>
+<td markdown="span">[Shukla et al., 2025 (Findings ACL)](https://aclanthology.org/2025.findings-acl.565/)</td>
+</tr>
+
+
+
 </tbody>
 </table>
 <div class="datatable-end"></div>
