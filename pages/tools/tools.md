@@ -87,7 +87,6 @@ Part of this list was adapted from the DialPort resource list. We thank DialPort
 <td markdown="span">C4A Research Institute, Inc.</td>
 <td markdown="span">Python</td>
 <td markdown="span">A framework for building dialogue systems. It has been developed as an information technology educational material.</td>
-https://aclanthology.org/2024.sigdial-1.56/
 <td markdown="span">[Nakano et al. 2024](https://aclanthology.org/2024.sigdial-1.56/)</td>
 </tr>
 

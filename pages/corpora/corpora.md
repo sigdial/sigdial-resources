@@ -1657,6 +1657,18 @@ We also referred to the survey paper [On the Need for Thoughtful Data Collection
 <td markdown="span">[Shukla et al., 2025 (Findings ACL)](https://aclanthology.org/2025.findings-acl.565/)</td>
 </tr>
 
+<tr>
+<td markdown="span">[KwaiChat](https://github.com/Stan-lei/KwaiChat-NAACL2025)</td>
+<td markdown="span">Multiple (multilingual: 4 languages)</td>
+<td markdown="span">Multimodal (video-driven dialogue)</td>
+<td markdown="span">Video, text dialogue content (comments, replies), metadata (domains, topics)</td>
+<td markdown="span">Multimedia discussions: video-based interactions around shared videos</td>
+<td markdown="span">Human-Human (multi-participant dialogues via video comments/replies)</td>
+<td markdown="span">93,209 videos, 246,080 dialogues</td>
+<td markdown="span">N/A</td>
+<td markdown="span">A massive dataset of human-to-human, video-driven multicultural multi-participant dialogues collected via a video-sharing platform, annotated across diverse dialogue types, domains, languages, and topics—designed to support multilingual dialogue generation over rich video context.</td>
+<td markdown="span">[Shi et al., 2025](https://aclanthology.org/2025.findings-naacl.121/)</td>
+</tr>
 
 
 </tbody>
