@@ -16,6 +16,8 @@ Parts of this list have been adapted from [A Survey of Available Corpora for Bui
 
 We also referred to the survey paper [On the Need for Thoughtful Data Collection for Multi-Party Dialogue: A Survey of Available Corpora and Collection Methods](https://aclanthology.org/2021.sigdial-1.36/). We would like to thank the authors.
 
+We would also like to thank David Traum who provided the information. 
+
 <div class="datatable-begin"></div>
 <table>
 <colgroup>
@@ -419,7 +421,7 @@ We also referred to the survey paper [On the Need for Thoughtful Data Collection
 
 
 <tr>
-  <td markdown="span">[ICSI Meeting Recorder Dialog Act (MRDA) Corpus](https://www.icsi.berkeley.edu/~ees/dadb)</td>
+  <td markdown="span">[ICSI Meeting Recorder Dialog Act (MRDA) Corpus](https://groups.inf.ed.ac.uk/ami/icsi/)</td>
   <td markdown="span">English</td>
   <td markdown="span">speech</td>
   <td markdown="span">audio, text</td>
