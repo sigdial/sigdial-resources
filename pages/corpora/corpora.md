@@ -61,6 +61,31 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Raux et al. 2006](https://www.isca-speech.org/archive/interspeech_2006/raux06_interspeech.html)</td>
 </tr>
 
+<tr>
+<td markdown="span">[Georgetown University Multilayer corpus (GUM)](https://gucorpling.org/gum/)</td>
+<td markdown="span">English</td>
+<td markdown="span">Mixed (text and speech)</td>
+<td markdown="span">text, markup and transcripts</td>
+<td markdown="span">24 spoken and written genres</td>
+<td markdown="span">Human-Human</td>
+<td markdown="span">~300K tokens</td>
+<td markdown="span">~55 utterances per document</td>
+<td markdown="span">A multilayer English corpus of 24 spoken and written genres annotated for RST and PDTB discourse relations, subtyped coreference and bridging anaphora, entity and proposition salience, multiple summatization, UD syntax and more</td>
+<td markdown="span">[Zeldes et al. 2025](https://aclanthology.org/2025.cl-1.3/)</td>
+</tr>
+
+<tr>
+<td markdown="span">[Georgetown Chinese Discourse Treebank](https://github.com/logan-siyao-peng/GCDT/)</td>
+<td markdown="span">Mandarin Chinese</td>
+<td markdown="span">Mixed (text and speech)</td>
+<td markdown="span">text, markup and transcripts</td>
+<td markdown="span">5 spoken and written genres</td>
+<td markdown="span">Human-Human</td>
+<td markdown="span">~63K tokens</td>
+<td markdown="span">~54 utterances per document</td>
+<td markdown="span">A multilayer Chinese corpus of 5 spoken and written genres annotated for RST discourse relations and dependencies, UD syntax and more</td>
+<td markdown="span">[Peng et al. 2022](https://aclanthology.org/2022.aacl-short.47)</td>
+</tr>
 
 <tr>
 <td markdown="span">[DSTC2](https://github.com/matthen/dstc)</td>
