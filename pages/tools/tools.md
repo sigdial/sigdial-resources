@@ -160,8 +160,7 @@ Designed for easy mixing and matching with a research project's proprietary or 3
 <td markdown="span">
   Retico is based on the Incremental Unit model of incremental dialogue processing. A typical Retico system is made up of processing modules. For example, a system could be made up of five modules: a speech recognizer, language understander, dialogue manager, natural language generator, and speech synthesizer. An "Incremental Unit" (IU) is a piece of information that passes between them. For example, a speech recognizer recognizes individual words packaged as an IU and outputs them to the language understander which takes in the speech recognition IU and interprets the intent of the user, then sends an IU that contains information about the intent to the dialogue manager, and so on.
 </td>
-<td markdown="span">[Retico: An incremental framework for spoken dialogue systems](https://ieeexplore.ieee.org/document/7579221](https://aclanthology.org/2020.sigdial-1.6/)</td>  
-<td markdown="span">[rrSDS: Towards a Robot-ready Spoken Dialogue System](https://aclanthology.org/2020.sigdial-1.17/)</td>
+<td markdown="span">[Retico: An incremental framework for spoken dialogue systems](https://ieeexplore.ieee.org/document/7579221](https://aclanthology.org/2020.sigdial-1.6/), [rrSDS: Towards a Robot-ready Spoken Dialogue System](https://aclanthology.org/2020.sigdial-1.17/)</td>
 </tr>
 
 
