@@ -10,7 +10,7 @@ permalink: corpora.html
 folder: corpora
 ---
 
-Parts of the contents of the list are extracted from the papers using ChatGPT, so they might be wrong. If you find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/corpora/corpora.md).). If you don't have an account on GitHub, please email at <resources@sigdial.org>.
+Parts of the contents of the list are extracted from the papers using LLMs, so they might be wrong. If you find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls) (Edit [this file](https://github.com/sigdial/sigdial-resources/blob/gh-pages/pages/corpora/corpora.md).). If you don't have an account on GitHub, please email at <resources@sigdial.org>.
 
 Parts of this list have been adapted from [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/abs/1512.05742), with permission; see the [survey website](https://breakend.github.io/DialogDatasets/) for reference and please cite the paper if useful.
 
@@ -206,6 +206,7 @@ We would also like to thank David Traum who provided the information.
 </tr>
 
 
+<!--
 <tr>
   <td markdown="span">[Ubuntu Dialogue Corpus](http://cs.mcgill.ca/~jpineau/datasets/ubuntu-corpus-1.0)</td>
   <td markdown="span">English</td>
@@ -218,7 +219,7 @@ We would also like to thank David Traum who provided the information.
   <td markdown="span">A dataset containing almost one million multi-turn dialogues extracted from the Ubuntu chat logs, used for research in unstructured multi-turn dialogue systems. It facilitates the development of dialogue managers based on neural language models that can utilize large amounts of unlabeled data.</td>
   <td markdown="span">[Lowe et al., 2015](https://aclanthology.org/W15-4640/)</td>
 </tr>
-
+-->
 
 
 <tr>
@@ -3337,7 +3338,7 @@ We would also like to thank David Traum who provided the information.
 </tr>
 
 <tr>
-<td markdown="span">ABCD (Action-Based Conversations Dataset)</td>
+<td markdown="span">[ABCD (Action-Based Conversations Dataset)](https://github.com/asappresearch/abcd)</td>
 <td markdown="span">English</td>
 <td markdown="span">Text</td>
 <td markdown="span">Text (fully labeled dialogues with action annotations, subflow labels, slot-value annotations, and Agent Guidelines)</td>
