@@ -29,7 +29,7 @@ We would also like to thank David Traum who provided the information.
 <col width="6%" />
 <col width="6%" />
 <col width="6%" />
-<col width="32%" />
+<col width="30%" />
 <col width="10%" />
 </colgroup>
 <thead>
