@@ -9,7 +9,7 @@ permalink: index.html
 toc: false
 ---
 
-This site lists resources useful for discourse and dialogue research. It is created and maintained by [SIGdial (Special Interest Group on Discourse and Dialogue)](https://www.sigdial.org/)
+This site lists resources useful for discourse and dialogue research. It is created and maintained by [SIGdial (Special Interest Group on Discourse and Dialogue)](https://www.sigdial.org/) (Main maintainer: Mikio Nakano)
 
 - [Corpora](corpora.html)
 - [Tools](tools.html) 

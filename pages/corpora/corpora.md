@@ -341,6 +341,7 @@ We would also like to thank David Traum who provided the information.
 
 
 
+<!--
 <tr>
   <td markdown="span">Tutorial Dialogs on Mathematical Theorem Proving</td>
   <td markdown="span">German (Translated to English for publication)</td>
@@ -353,6 +354,7 @@ We would also like to thank David Traum who provided the information.
   <td markdown="span">A corpus of dialog session logs from a Wizard-of-Oz experiment focused on teaching proofs in naive set theory, with audio and video logs also collected.</td>
   <td markdown="span">[Wolska et al., 2004](https://aclanthology.org/L04-1427/)</td>
 </tr>
+-->
 
 
 
@@ -579,6 +581,7 @@ We would also like to thank David Traum who provided the information.
   <td markdown="span">[Banchs, 2012](https://aclanthology.org/P12-2040/)</td>
 </tr>
 
+<!--
 <tr>
   <td markdown="span">Movie-Triples</td>
   <td markdown="span">English</td>
@@ -591,6 +594,7 @@ We would also like to thank David Traum who provided the information.
   <td markdown="span">The MovieTriples dataset is developed by expanding and preprocessing the Movie-DiC dataset for generative dialogue modeling. It includes dialogues of three turns between two interlocutors, derived from movie scripts, making it suitable for building dialogue systems that emulate human conversations.</td>
   <td markdown="span">[Serban et al., 2016](https://cdn.aaai.org/ojs/9883/9883-13-13411-1-2-20201228.pdf)</td>
 </tr>
+-->
 
 
 
@@ -1381,6 +1385,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Canavan & Zipperlen, 1996](https://doi.org/10.35111/d37s-c536)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">The HUMAINE Database</td>
 <td markdown="span">English/French/German</td>
@@ -1393,6 +1398,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A curated set of emotional clips captured in multiple modalities and systematically annotated to support affective computing research, with both naturalistic and induced emotion samples labeled at global and frame-level</td>
 <td markdown="span">[Douglas-Cowie et al., 2007](https://link.springer.com/chapter/10.1007/978-3-540-74889-2_43)</td>
 </tr>
+-->
 
 
 <tr>
@@ -1751,6 +1757,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Beck et al. 2026](https://arxiv.org/abs/2604.27543)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">CSE-Graded Spoken Dialogue Corpus</td>
 <td markdown="span">English</td>
@@ -1763,6 +1770,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A proficiency-graded multi-turn spoken dialogue corpus for K-12 non-native English learners, aligned with China's Standards of English Language Ability (CSE). Dialogues are divided into four difficulty levels (L1–L4) corresponding to primary through senior high school, with vocabulary strictly constrained to level-appropriate word lists, and generated via constrained-decoding LLMs followed by error correction and human review.</td>
 <td markdown="span">[Yuan et al. 2026](https://arxiv.org/abs/2604.22542)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[SuSuInterActs](https://sentiavatar.github.io)</td>
@@ -1777,6 +1785,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Jin et al. 2026](https://arxiv.org/abs/2604.02908)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">PsyDefConv</td>
 <td markdown="span">English</td>
@@ -1789,6 +1798,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">PsyDefConv is a dialogue corpus of 200 emotional support conversations (drawn from ESConv via stratified sampling) in which each help-seeker utterance is annotated with a Defense Mechanism Rating Scale (DMRS) level (Levels 0–8, covering seven hierarchical defense levels plus "No Defense" and "Needs More Information"). Double-blind annotation by two trained experts yielded substantial inter-annotator agreement (Cohen's κ = 0.639), and a four-stage LLM pipeline (DMRS Co-Pilot) was used to provide evidence-based pre-annotations to support annotation efficiency and consistency.</td>
 <td markdown="span">[Na et al. 2025](https://arxiv.org/abs/2512.15601)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Portal Dialogue Corpus](https://berkeley-nlp.github.io/portal-dialogue-corpus/)</td>
@@ -1803,6 +1813,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Tomlin et al. 2025](https://arxiv.org/abs/2512.03381)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">DiaCBT</td>
 <td markdown="span">English</td>
@@ -1815,7 +1826,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">DiaCBT is a long-periodic, multi-session dialogue corpus for cognitive behavioral therapy (CBT)-based psychological counseling, comprising 108 cases across 540 sessions. Each case features multi-turn client–therapist dialogues annotated with 14 CBT counseling strategies and guided by structured Cognitive Conceptualization Diagrams (CCDs) that model clients' core beliefs, automatic thoughts, emotions, and behaviors across diverse mental health scenarios.</td>
 <td markdown="span">[Zhou et al. 2025](https://arxiv.org/abs/2509.02999)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Japanese Parent-Child Dialogue Corpus for Ideal Parent Bias and Suppressed Emotion</td>
 <td markdown="span">Japanese</td>
@@ -1828,6 +1841,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Japanese parent-child dialogue corpus of 30 scenarios, each generated by LLM-based role-playing agents and reviewed by human experts. Scenarios vary across child age (6–15), personality, and family background, and are annotated with metadata on ideal parent bias (type, intensity, background) and suppressed emotion (type, intensity, presence/absence), enabling empirical investigation of relational dynamics and communication repair.</td>
 <td markdown="span">[Harada et al. 2025](https://arxiv.org/abs/2507.11210)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[MDC-R+SDRT (merged corpus)](https://github.com/arciduca-project/MDC-R/tree/sdrt)</td>
@@ -1855,6 +1869,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Lee et al. 2025](https://arxiv.org/abs/2507.05750)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">o2mDial</td>
 <td markdown="span">English</td>
@@ -1867,6 +1882,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">o2mDial is a dialogue corpus explicitly designed to capture the one-to-many property of open-domain dialogue, featuring multiple (five) plausible, semantically and lexically diverse responses per dialogue context. Each context (sampled from DailyDialog, 3–6 turns) is paired with five responses generated by five distinct LLMs, manually verified for fluency and contextual coherence; the corpus is further extended with human preference labels for response selection research.</td>
 <td markdown="span">[Lee et al. 2025](https://arxiv.org/abs/2506.15131)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[SITT Dataset](https://github.com/social-influence/sitt-dataset/)</td>
@@ -1881,6 +1897,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Mieleszczenko-Kowszewicz et al. 2025](https://arxiv.org/abs/2506.00061)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">PsyPlay-Bench</td>
 <td markdown="span">English</td>
@@ -1893,7 +1910,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">PsyPlay-Bench is a dialogue corpus of personality-infused role-playing conversations generated by multiple LLM agents using the PsyPlay framework. Each dialogue features two agents assigned distinct Big Five personality traits engaging in discussion around a psychologically relevant topic; the 4,745 Clean instances have been verified via automatic personality back-testing to successfully portray the intended traits.</td>
 <td markdown="span">[Yang et al. 2025](https://arxiv.org/abs/2502.03821)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">TEIDAN</td>
 <td markdown="span">Japanese</td>
@@ -1906,6 +1925,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">TEIDAN is a spontaneous, multi-modal, multi-party dialogue corpus of triadic (three-participant) goal-free discussions in Japanese, collected from 10 triads across 30 sessions (~5–10 min each). Each participant was recorded with individual face cameras and pin microphones; a subset of 5 sessions has been annotated with turn segments and addressee labels, showing that explicit addressees appear in ~20% of turns.</td>
 <td markdown="span">[Inoue et al. 2025](https://arxiv.org/abs/2501.16643)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[French OSCE Dialogue Dataset](https://zenodo.org/records/20719833)</td>
@@ -1998,6 +2018,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Bayrak et al. 2026](https://arxiv.org/abs/2604.13620)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">CONCORD Dialogue Dataset</td>
 <td markdown="span">English</td>
@@ -2010,7 +2031,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A structured synthetic two-party dialogue dataset constructed for privacy-aware conversational AI research, covering nine relationship types across high-stakes, workplace, academic, and informal domains. Each dialogue includes explicit ground-truth annotations for spatio-temporal reference resolution, information gap specifications, relationship-level labels, and privacy-sensitive disclosure query labels, generated via an event-conditioned LLM pipeline with human validation (Cohen's Kappa = 0.78).</td>
 <td markdown="span">[Srivastava et al. 2026](https://arxiv.org/abs/2604.13348)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">MedAidDialog</td>
 <td markdown="span">Multilingual (English, Hindi, Telugu, Tamil, Bengali, Marathi, Arabic)</td>
@@ -2023,7 +2046,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">MedAidDialog is a multilingual multi-turn medical dialogue dataset designed to simulate realistic physician–patient consultations, covering 12 diseases and 118 symptoms. It extends the MDDial corpus with 1,101 LLM-generated synthetic consultations and expands the full collection into a parallel corpus across seven languages (English, Hindi, Telugu, Tamil, Bengali, Marathi, and Arabic), supporting personalized consultations via optional patient pre-context (age, gender, allergies, etc.).</td>
 <td markdown="span">[Nigam et al. 2026](https://arxiv.org/abs/2603.24132)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">KMP-Pile</td>
 <td markdown="span">English</td>
@@ -2036,7 +2061,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">KMP-Pile is a large-scale synthetic training dataset of 150K multi-turn K-8 mathematical tutoring dialogues generated via a multi-stage pipeline that weaves together four pedagogical components (follow-up questions, error analysis, similar practice problems, and confusion clarifications) into coherent conversational flows. It accompanies KMP-Bench, a benchmark suite for evaluating the pedagogical intelligence of LLMs, and fine-tuning on KMP-Pile yields substantial improvements on the benchmark.</td>
 <td markdown="span">[Shi et al. 2026](https://arxiv.org/abs/2603.02775)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Memory Evolving Guided Dialogue Dataset</td>
 <td markdown="span">English</td>
@@ -2049,6 +2076,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A synthetically generated dataset of long-term user-assistant dialogues paired with operation-level memory updating labels and memory states, created to support training and evaluation of persona-centric memory management agents. Each of 300 fictional user profiles is associated with 25 chronological dialogue sessions annotated with corresponding memory operations (add, update, none) and target memory states.</td>
 <td markdown="span">[Zhang et al. 2026](https://arxiv.org/abs/2604.01560)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CPB-Bench](https://github.com/yli-z/cpb-bench-challenging-patient-behaviors.git)</td>
@@ -2063,6 +2091,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Li et al. 2026](https://arxiv.org/abs/2603.29373)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">eJSL Dialog</td>
 <td markdown="span">Japanese Sign Language (JSL)</td>
@@ -2075,7 +2104,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">eJSL Dialog is the first Japanese Sign Language dataset for Emotion Recognition in Conversation (ERC), constructed from dialogue scripts of the STUDIES corpus. It contains 1,920 RGB video clips organised into 480 four-turn dialogues between a teacher and student, each utterance annotated with one of four emotion labels (Neutral, Happy, Sad, Angry), spanning eight scenes and approximately 4.65 hours of video.</td>
 <td markdown="span">[Wang et al. 2026](https://arxiv.org/abs/2605.23328)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">ArabCulture-Dialogue</td>
 <td markdown="span">Arabic (Modern Standard Arabic and 13 regional dialects)</td>
@@ -2088,7 +2119,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">ArabCulture-Dialogue is a human-curated parallel MSA–dialect conversational dataset covering 13 Arabic-speaking countries, spanning 12 daily-life topics and 54 fine-grained subtopics. Each instance consists of a culturally grounded multi-turn dialogue with three candidate continuations (one culturally correct), provided in both Modern Standard Arabic and the corresponding country-level dialect, supporting benchmarking tasks including cultural MCQ reasoning, MSA–dialect machine translation, and dialect-steering generation.</td>
 <td markdown="span">[Al Kautsar et al. 2026](https://arxiv.org/abs/2605.00119)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">RPC (Resistance-Informed Psychological Conversations)</td>
 <td markdown="span">Chinese</td>
@@ -2101,7 +2134,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">RPC is a large-scale resistance-oriented psychological conversation dataset constructed from real-world Chinese counseling sessions (ProPsyC), in which client utterances are rewritten using a theory-grounded framework to introduce five types of resistance behaviors (Controlling, Emotional, Defensive, Avoidant, and Compliant). Each session is paired with a validated 5P client profile and annotated with reaction type labels and motivation rationales, verified by licensed counselors.</td>
 <td markdown="span">[Liu et al. 2026](https://arxiv.org/abs/2604.10507)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">SignaVox-U (and SignaVox-W)</td>
 <td markdown="span">American Sign Language (ASL)</td>
@@ -2114,7 +2149,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">SignaVox-W is a large-scale labeled isolated ASL sign dataset with a 42K-gloss vocabulary (79.27 hours) collected from web-based sign dictionaries and public datasets, represented in a unified 3D motion space (body, hands, face). SignaVox-U is a continuous 3D sign conversation dataset (~336.81 hours, 22.6K-gloss vocabulary) constructed by converting spoken-language dialogue corpora into sign-language-ordered gloss sequences and synthesizing continuous 3D signing from SignaVox-W clips using the BRAID model.</td>
 <td markdown="span">[Kim et al. 2026](https://arxiv.org/abs/2605.14705)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Dyadic Conversation Dataset (+ Synthetic Dubbing Dataset)</td>
 <td markdown="span">English</td>
@@ -2127,6 +2164,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">Two large-scale datasets curated to support 3D dyadic conversation animation: (1) a Dyadic Conversation Dataset of over 2 million interacting pairs from in-the-wild videos, processed via 3D face reconstruction, audio source separation, and quality filtering to extract paired 3D facial parameters and speaker masks; and (2) a Synthetic Dubbing Dataset constructed from high-quality single-speaker videos recombined into pseudo-conversations with perfect ground-truth lip motion and speaker activity labels.</td>
 <td markdown="span">[Shan et al. 2026](https://arxiv.org/abs/2603.08674)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Fin-Vault](https://github.com/sarmistha-D/Fin-Ally)</td>
@@ -2154,6 +2192,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Dhanya et al. 2026](https://arxiv.org/abs/2603.02813)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">data_5k_GPT / data_5k_artificial / data_5k_ddxplus</td>
 <td markdown="span">English</td>
@@ -2166,7 +2205,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">Three variants of a multi-turn medical dialogue dataset constructed by transforming structured clinical cases from DDXPlus into lay-person-friendly doctor-patient conversations: raw DDXPlus-based (data_5k_ddxplus), manually rewritten with patient-friendly terminology (data_5k_artificial), and fully rewritten by GPT-3.5 Turbo (data_5k_GPT). Each variant contains 5,000 multi-turn conversations covering symptom elicitation and medical department triage recommendations.</td>
 <td markdown="span">[Shi et al. 2025](https://arxiv.org/abs/2506.06737)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">SciConvQA</td>
 <td markdown="span">English</td>
@@ -2179,6 +2220,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">SciConvQA is a conversational question answering benchmark constructed from scientific journal data provided by the Korea Institute of Science and Technology Information, following the conversation generation protocol of TopiOCQA. It focuses on specialized scientific domains with diverse conversational contexts and includes queries, responses, and reference passages for evaluating conversational query reformulation.</td>
 <td markdown="span">[Kim et al. 2025](https://arxiv.org/abs/2505.06552)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Multifaceted Skill-of-Mind](https://github.com/passing2961/Thanos)</td>
@@ -2219,6 +2261,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Jang et al. 2025](https://arxiv.org/abs/2506.00421)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">ChatGPT Parental Control Evaluation Corpus</td>
 <td markdown="span">English</td>
@@ -2231,7 +2274,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A category-balanced conversation corpus built via PAIR-style iterative prompt refinement against ChatGPT (API), then replayed by trained human agents in the consumer UI under a child account with parental controls enabled. Each session is annotated with safety judge labels (appropriate/borderline/inappropriate), visible UI interventions, and parental notification outcomes across seven child-safety risk categories.</td>
 <td markdown="span">[Ersoz et al. 2026](https://arxiv.org/abs/2601.23062)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">MaDSA Synthetic Dialogue Dataset</td>
 <td markdown="span">English</td>
@@ -2244,6 +2289,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A synthetic multi-turn conversational dataset created for multi-aspect depression severity assessment, derived from DailyDialog and EmpatheticDialogues. Each dialogue is annotated with PHQ-8 scores (0–3) across eight depression aspects (Interest, Mood, Sleep, Appetite, Fatigue, Self-esteem, Concentration, Moving) alongside binary emotion labels, with reliability confirmed via human expert evaluation.</td>
 <td markdown="span">[Lee et al. 2024](https://arxiv.org/abs/2410.21836)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[MSP-Conversation](https://lab-msp.com/MSP-Conversation_Competition/DynamicSERB/)</td>
@@ -2271,6 +2317,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Fernandez et al. 2022](https://arxiv.org/abs/2207.12262)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">KGConv</td>
 <td markdown="span">English</td>
@@ -2283,6 +2330,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">KGConv is a large conversational corpus of ~71k dialogues in which each question-answer turn is grounded in a Wikidata fact. For each fact, multiple question variants (averaging 12) are provided via templates, human annotations, hand-crafted rules, and a T5-based question rewriting model, supporting tasks such as conversational question generation, question rewriting, and knowledge-graph question answering.</td>
 <td markdown="span">[Brabant et al. 2023](https://arxiv.org/abs/2308.15298)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[STAR Pre-training Corpus](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/star)</td>
@@ -2323,6 +2371,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Rückert et al. 2022](https://arxiv.org/abs/2201.12409)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">AMI-ME</td>
 <td markdown="span">English</td>
@@ -2335,6 +2384,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">AMI-ME is a meta-evaluation dataset for temporal fine-grained meeting effectiveness assessment, built on the AMI Corpus. It contains 2,459 human-annotated topical segments from 130 meetings, each scored on a 5-point effectiveness scale by three independent annotators, along with multi-label annotations identifying which meeting objectives each segment addresses.</td>
 <td markdown="span">[Li et al. 2026](https://arxiv.org/abs/2604.17260)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[OpenAssistant Conversations (OASST1)](https://huggingface.co/OpenAssistant/oasst1)</td>
@@ -2362,6 +2412,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Boritchev et al. 2022](https://arxiv.org/abs/2207.12162)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Dziri Voicebot ASR and TTS Corpora</td>
 <td markdown="span">Algerian Dialect (Darija) with Arabic–French code-switching</td>
@@ -2374,7 +2425,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">Two newly constructed speech corpora for Algerian Dialect (Darija) in the telecommunications domain: (1) a multi-speaker ASR corpus of 4,103 manually validated utterances (2.68 hours, 14 speakers, 70 intents) with Arabic–French code-switching, and (2) a single-speaker TTS corpus of approximately 50.7 minutes collected for neural speech synthesis fine-tuning. Both corpora support the Dziri Voicebot end-to-end speech-to-speech conversational system.</td>
 <td markdown="span">[Lanasri et al. 2026](https://arxiv.org/abs/2606.26003)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Large-scale Multi-party Dialogues Dataset for Discourse Parsing and Machine Comprehension</td>
 <td markdown="span">English</td>
@@ -2387,6 +2440,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A large-scale annotation of multi-party chat dialogues derived from the Ubuntu Chat Corpus, providing discourse dependency structure (using 16 STAC relation senses) and question-answer pairs (including unanswerable questions with plausible answers) for each dialogue. It is claimed to be the first large-scale corpus for multi-party dialogue discourse parsing and the first corpus for multi-party dialogue machine reading comprehension.</td>
 <td markdown="span">[Li et al. 2019](https://arxiv.org/abs/1911.03514)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[StreamDial](https://github.com/hitxueliang/DialogDataSetBySTREAM)</td>
@@ -2427,6 +2481,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Elleuch et al. 2026](https://arxiv.org/abs/2603.21940)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">SpokenTOD</td>
 <td markdown="span">English</td>
@@ -2439,6 +2494,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">SpokenTOD is a large-scale spoken task-oriented dialogue dataset constructed by augmenting existing text-based TOD corpora (ABCD, EmoWOZ/MultiWOZ, SGD, Taskmaster-2, SpokenWOZ) with four spoken user behaviors—cross-turn slots, barge-in, disfluency, and emotion-aware prosody—and synthesizing them into speech across 542 diverse speakers spanning multiple accents, ages, and genders. It provides rich annotations for dialogue states, system acts, and spoken user behaviors, and is designed to support training and evaluation of robust spoken task-oriented dialogue agents and user simulators.</td>
 <td markdown="span">[Lee et al. 2026](https://arxiv.org/abs/2603.16783)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[KoCC-TTS](https://huggingface.co/datasets/channelcorp/KoCC-TTS-testset)</td>
@@ -2479,6 +2535,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Bian et al. 2026](https://arxiv.org/abs/2601.06966)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Customer-Service Dataset</td>
 <td markdown="span">Chinese (inferred from domains and entities; not explicitly stated)</td>
@@ -2491,6 +2548,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A multi-domain customer-service dialogue dataset constructed to support fine-grained, industry-oriented named entity recognition. It spans five verticals (General, Automotive, Home/Renovation, Real Estate, Legal/Finance) with a unified hierarchical annotation schema that includes entity class, surface description, normalized values, CoT reasoning, and KeyInfo summaries. A large-scale retrieval evaluation over 10,000 instances in the automotive domain is also reported.</td>
 <td markdown="span">[Xue et al. 2025](https://arxiv.org/abs/2511.12213)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[TOD-ProcBench](https://www.amazon.science/publications/tod-procbench-benchmarking-complex-instruction-following-in-task-oriented-dialogues)</td>
@@ -2505,6 +2563,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Ghazarian et al. 2025](https://arxiv.org/abs/2511.15976)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">MMWOZ</td>
 <td markdown="span">English</td>
@@ -2517,6 +2576,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">MMWOZ is a multimodal task-oriented dialogue dataset extended from MultiWOZ 2.3, in which a system agent must interact with users via natural language while also manipulating a web-style GUI (instead of back-end APIs) to retrieve information and complete tasks across five domains. Each system turn is paired with web page snapshots and structured GUI operation instructions (click/input) collected via an automated script.</td>
 <td markdown="span">[Yang et al. 2025](https://arxiv.org/abs/2511.12586)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[TACT (TOD-And-Chitchat Transition)](https://huggingface.co/datasets/HYU-NLP/TACT)</td>
@@ -2531,6 +2591,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Yoon et al. 2025](https://arxiv.org/abs/2511.08835)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Mix-ECom</td>
 <td markdown="span">Chinese</td>
@@ -2543,7 +2604,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">Mix-ECom is a mixed-type e-commerce customer-service dialogue benchmark derived from 70,000 real-world conversations, post-processed to remove user privacy and add chain-of-thought reasoning in ReAct format. Each of the 4,799 dialogues covers multiple dialogue types (QA, recommendation, task-oriented, chit-chat) across three e-commerce task categories (pre-sales, logistics, after-sales), governed by 82 complex domain rules, and accompanied by multimodal inputs (images and video), API tools, and structured databases.</td>
 <td markdown="span">[Zhou et al. 2025](https://arxiv.org/abs/2509.23836)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">CReST SMM Annotation Dataset</td>
 <td markdown="span">English</td>
@@ -2556,6 +2619,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A dataset of shared mental model (SMM) traces and discrepancy annotations derived from six dialogues of the CReST corpus, produced by three LLMs (o3-mini, Claude Sonnet 4, Gemma 8.5B), naive human annotators, and video-grounded ground-truth human annotators. Each trace records per-utterance belief, goal, and commitment states for searcher and director agents; a secondary LLM judge identifies and classifies discrepancies (belief contradictions, omissions, unsupported beliefs, false beliefs) between audio-only and ground-truth traces.</td>
 <td markdown="span">[Kowalyshyn et al. 2025](https://arxiv.org/abs/2509.02292)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[M-EDESConv & M-TESC](https://github.com/zihaurpang/Multilingual-Emotional-Validation)</td>
@@ -2635,6 +2699,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Wang et al. 2025](https://arxiv.org/abs/2501.01034)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Attentive Listening Dataset (ERICA WOZ)</td>
 <td markdown="span">Japanese</td>
@@ -2647,7 +2712,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Japanese spoken dialogue corpus collected via Wizard-of-Oz sessions with the android ERICA, in which human participants share personal experiences while ERICA acts as an attentive listener. Dialogues are transcribed and annotated with two types of backchannel responses (continuers and assessments), intended for training and evaluating real-time, continuous backchannel prediction models.</td>
 <td markdown="span">[Inoue et al. 2024](https://arxiv.org/abs/2410.15929)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">DECODA-v2</td>
 <td markdown="span">French</td>
@@ -2660,6 +2727,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">DECODA-v2 is an extended version of the DECODA French call-centre corpus, augmented with LLM-generated (ChatGPT-3.5) summaries for previously unannotated dialogues and automatic ASR transcriptions (WhisperX), standardized for research on task-oriented dialogue summarization. It includes manual and automatic transcriptions alongside human-annotated and automatically generated synopses, with semantic annotations (call types, named entities).</td>
 <td markdown="span">[Akani et al. 2024](https://arxiv.org/abs/2409.10070)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[J-CHAT](https://huggingface.co/datasets/sarulab-speech/J-CHAT)</td>
@@ -2700,6 +2768,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Park et al. 2024](https://arxiv.org/abs/2406.07867)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Educational Dialogue Dataset (KC/TP)</td>
 <td markdown="span">English</td>
@@ -2712,6 +2781,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">An annotated corpus of recorded small-group homework discussions among undergraduate mechanical engineering students, labeled for knowledge construction (KC), task production (TP), uncertain, and other discourse at the turn level. The dataset covers 19 distinct homework topics from a thermal fluid systems course and is intended to support NLP research on educational discourse analysis.</td>
 <td markdown="span">[Mim et al. 2025](https://arxiv.org/abs/2511.20547)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[PxCorpus (PxSLU + PxDialogue)](https://doi.org/10.5281/zenodo.6524162)</td>
@@ -2739,6 +2809,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Saito et al. 2023](https://arxiv.org/abs/2305.13713)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">InterSafe-V</td>
 <td markdown="span">English</td>
@@ -2751,7 +2822,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">InterSafe-V is an open-source multi-modal dialogue safety dataset comprising 11,270 simulated multi-turn conversations (constructed via model-to-model interaction with an average of 4 turns and 1.53 images per dialogue) and 500 specially designed refusal VQA pairs covering general harmful, health, and financial domains. It is designed to capture risks such as role-playing, multi-turn intent reconstruction, and conversational steering for safety alignment of MLLMs.</td>
 <td markdown="span">[Zhu et al. 2026](https://arxiv.org/abs/2601.04736)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">ProKG-Dial</td>
 <td markdown="span">Chinese</td>
@@ -2764,6 +2837,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">ProKG-Dial is a synthetically constructed, knowledge-intensive multi-turn dialogue dataset in the medical domain, generated using a progressive framework that leverages the CMeKG Chinese medical knowledge graph. The dataset is built via community-partitioned subgraph traversal and dual-LLM dialogue generation, followed by semantic and subgraph similarity filtering, yielding 7,200 diverse, coherent dialogues across train/dev/test splits.</td>
 <td markdown="span">[Liang et al. 2025](https://arxiv.org/abs/2508.01869)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Foodie (IterChat)](https://github.com/walcheng/IterChat)</td>
@@ -2895,6 +2969,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Koudounas et al. 2025](https://arxiv.org/abs/2505.19978)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">FavoriteThingsChat (Fav)</td>
 <td markdown="span">Japanese</td>
@@ -2907,6 +2982,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">FavoriteThingsChat is a Japanese human-human chit-chat corpus in which 80 participants each conversed with more than 60 other participants about their personal favourite things, yielding long, topic-deep dialogues that naturally combine knowledge-sharing, empathy, and consistent personality. The corpus was developed as a Japanese alternative to BlendedSkillTalk for fine-tuning Transformer-based dialogue models.</td>
 <td markdown="span">[Sugiyama et al. 2021](https://arxiv.org/abs/2109.05217)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Diamante](https://www.luge.ai/#/luge/dataDetail?id=52)</td>
@@ -2947,6 +3023,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Hancock et al. 2019](https://arxiv.org/abs/1901.05415)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">EmplifAI</td>
 <td markdown="span">Japanese</td>
@@ -2959,7 +3036,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">EmplifAI is a Japanese empathetic dialogue dataset grounded in 28 fine-grained emotion categories (adapted from the GoEmotions taxonomy) designed to support patients coping with chronic medical conditions. It contains 280 medically contextualized situations and 4,125 two-turn patient–supporter dialogues collected via crowdsourcing on the CrowdWorks platform and validated through expert medical review.</td>
 <td markdown="span">[She et al. 2026](https://arxiv.org/abs/2601.10033)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">SYNTHEMPATHY</td>
 <td markdown="span">English</td>
@@ -2972,7 +3051,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">SYNTHEMPATHY is a large-scale, single-turn empathetic dialogue corpus of 105,578 explanation-response pairs generated entirely via LLMs (Llama 2 13B Chat, Llama 3 8B, Gemma 7B, Mistral 7B) without any crowdsourcing. Scenarios are grounded in real-life stressors from the SAD dataset and responses are generated using Chain of Empathy prompting based on four psychotherapy frameworks (CBT, DBT, PCT, RT).</td>
 <td markdown="span">[Chen et al. 2025](https://arxiv.org/abs/2502.17857)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">SSR (Stigmatized Self-Reflection) Dataset</td>
 <td markdown="span">English, Mandarin Chinese</td>
@@ -2985,6 +3066,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The SSR dataset augments existing mental health dialogue corpora (Alexander Street Transcripts, D4, Client Reaction, ESConv) with synthetically generated internal monologues that articulate patients' unspoken stigma-driven thoughts, structured around the psychological 3A1H model of self-stigmatization. Each stigma-labeled patient utterance is paired with a narrative-style internal monologue and annotated with stigma type, life event, and symptom labels, enabling chain-of-thought fine-tuning of LLMs for realistic, context-sensitive patient simulation.</td>
 <td markdown="span">[Lan et al. 2026](https://arxiv.org/abs/2606.08254)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[APT Database](https://github.com/CAS-SIAT-XinHai/APTNESS)</td>
@@ -3025,6 +3107,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Wang et al. 2024](https://arxiv.org/abs/2412.16674)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">GPT-Negochat</td>
 <td markdown="span">English</td>
@@ -3037,6 +3120,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">GPT-Negochat is a synthesized multi-issue negotiation dialogue corpus derived from the NEGOCHAT corpus, in which candidate-side utterances have been rephrased using GPT-3 (text-davinci-003) to improve linguistic naturalness and diversity. Each dialogue is annotated with turn-level agreement states over a structured ontology of six job-offer negotiation issues, supporting the novel task of agreement tracking.</td>
 <td markdown="span">[Mannekote et al. 2023](https://arxiv.org/abs/2307.06524)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[STICKERCONV](https://github.com/ZhangYiqun018/StickerConv)</td>
@@ -3064,6 +3148,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Chawla et al. 2021](https://arxiv.org/abs/2103.15721)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">CPsDD</td>
 <td markdown="span">Mandarin Chinese</td>
@@ -3076,6 +3161,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">CPsDD is the first large-scale Chinese psychological support dialogue dataset, containing 68K multi-turn counselling dialogues spanning 13 user groups, 16 psychological problems, 13 problem causes, and 12 support focuses. Each dialogue is annotated with a strategy path (9 response strategies), user situation, and before/after severity ratings of psychological problems, supporting both strategy prediction and emotional support conversation (ESC) tasks.</td>
 <td markdown="span">[Shi et al. 2025](https://arxiv.org/abs/2507.07509)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[MoPHES Multi-turn Counseling Dialogues Dataset](https://github.com/weixun2018/MoPHES)</td>
@@ -3090,6 +3176,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Wei et al. 2025](https://arxiv.org/abs/2510.16085)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">MindCorpus</td>
 <td markdown="span">Chinese</td>
@@ -3102,6 +3189,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">MindCorpus is a synthetic Chinese multi-turn psychological counseling dataset of 5.7K sessions, constructed using a multi-agent role-playing framework with a dual closed-loop feedback mechanism (turn-level critique-and-revision and session-level strategy refinement) to integrate professional counseling expertise. It covers diverse mental health themes including emotional/relationship management, stress and anxiety relief, self-awareness, mental health maintenance, and workplace adjustment, generated from ~11K real-world seed situation texts collected from online counseling platforms.</td>
 <td markdown="span">[Xue et al. 2026](https://arxiv.org/abs/2601.01993)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[MeDial-Speech](https://huggingface.co/datasets/hcuayahu/MeDial-Speech)</td>
@@ -3116,6 +3204,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Cuayáhuitl et al. 2026](https://arxiv.org/abs/2605.26747)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">MediLongChat</td>
 <td markdown="span">English</td>
@@ -3128,6 +3217,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">MediLongChat is a synthetically generated longitudinal medical dialogue dataset covering 80 patients, each with 15–20 multi-turn clinical encounter dialogues spanning their lifetime history. It is constructed via a knowledge-guided, task-decomposed LLM pipeline and includes three benchmark tasks—In-dialogue Reasoning, Cross-dialogue Reasoning, and Synthesis Reasoning—to evaluate long-term memory and cross-session clinical reasoning in healthcare agents.</td>
 <td markdown="span">[Hu et al. 2026](https://arxiv.org/abs/2605.19766)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Synthetic Dutch Medical Dialogues Corpus](https://doi.org/10.34973/mvpm-9987)</td>
@@ -3181,6 +3271,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Chen et al. 2025](https://arxiv.org/abs/2503.03607)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">MedChat Synthetic Anamnesis Dialogue Corpus</td>
 <td markdown="span">English, German</td>
@@ -3193,6 +3284,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A synthetic corpus of 10,080 medical anamnesis dialogues generated via teacher-student knowledge distillation using Meta-Llama-3.1-70B-Instruct, derived from three Kaggle symptom-disease datasets totalling 10,080 symptom samples. The corpus was used to fine-tune MedChat, a locally deployable LLM-based virtual physician system, and is released as open-source to serve as a benchmark for future medical chatbot development.</td>
 <td markdown="span">[Ruhland et al. 2025](https://arxiv.org/abs/2511.18632)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[MedSynth](https://huggingface.co/datasets/Ahmad0067/MedSynth)</td>
@@ -3246,6 +3338,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Wang et al. 2024](https://arxiv.org/abs/2410.03521)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">FollowupBench</td>
 <td markdown="span">English</td>
@@ -3258,6 +3351,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">FollowupBench is the first public dataset of asynchronous patient portal messages paired with linked EHR data (demographics, medical history, medications) and expert-written follow-up questions. It comprises two subsets: FB-Real (150 real patient messages with 514 clinician-extracted follow-up questions) and FB-Synth (250 semi-synthetic message–EHR pairs with over 2,300 follow-up questions written by 9 primary care providers), designed to support NLP research on follow-up question generation in asynchronous medical dialogue.</td>
 <td markdown="span">[Gatto et al. 2025](https://arxiv.org/abs/2503.17509)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[SPADE Dialogue Datasets](https://github.com/AngieYYF/SPADE-customer-service-dialogue)</td>
@@ -3311,6 +3405,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Yu et al. 2025](https://arxiv.org/abs/2501.09213)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Empeval</td>
 <td markdown="span">English</td>
@@ -3323,6 +3418,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">Empeval is an internal anonymised customer-service dialogue dataset drawn from a company's support logs, annotated using a novel two-dimensional empathy framework covering 16 expressed communicative intents and 4 perceived empathy dimensions (engagement, understanding, sympathy, helpfulness), together with overall conversation satisfaction ratings. Due to privacy constraints the dataset is not publicly released, but full annotation guidelines and dataset statistics are reported to support reproducibility.</td>
 <td markdown="span">[Xu et al. 2024](https://arxiv.org/abs/2402.11409)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CSDS](https://github.com/xiaolinAndy/CSDS)</td>
@@ -3350,6 +3446,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Chen et al. 2021](https://arxiv.org/abs/2104.00783)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">EmoTwiCS</td>
 <td markdown="span">Dutch</td>
@@ -3362,6 +3459,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">EmoTwiCS is a corpus of 9,489 Dutch customer service dialogues scraped from Twitter, annotated for fine-grained emotion trajectories. Annotations cover customer emotions (28 categorical labels plus valence-arousal-dominance scores), prior event/cause categories (8 labels), and operator response strategies (8 categories), enabling the study of dynamic emotion shifts throughout conversations.</td>
 <td markdown="span">[Labat et al. 2023](https://arxiv.org/abs/2310.06536)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Customer Service Dialogue Summarization Dataset](https://github.com/RowitZou/topic-dialog-summ)</td>
@@ -3376,6 +3474,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Zou et al. 2021](https://arxiv.org/abs/2012.07311)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">ToM-BPD</td>
 <td markdown="span">English</td>
@@ -3388,6 +3487,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">ToM-based Broad Persuasive Dialogues (ToM-BPD) is a large-scale annotated dataset built upon the PersuasiveToM benchmark, providing fine-grained turn-level annotations of the persuadee's mental states (desire and belief, grounded in the BDI framework) and the persuader's strategy (9 fine-grained techniques across socio-emotional, cognitive, and interactive categories). It is designed to support Theory-of-Mind reasoning research in multi-turn persuasive dialogue.</td>
 <td markdown="span">[Ma et al. 2026](https://arxiv.org/abs/2605.22602)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[TeleSalesCorpus](https://huggingface.co/datasets/ICIP/TeleSalesCorpus)</td>
@@ -3415,6 +3515,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Zhang et al. 2025](https://arxiv.org/abs/2502.21297)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">NWPU-300 and TextRS-300</td>
 <td markdown="span">English</td>
@@ -3427,6 +3528,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">Two manually annotated datasets for knowledge-aware visual question generation over remote sensing images, built on top of the NWPU-Captions and TextRS image captioning datasets. Each sample consists of a remote sensing image, a caption, a ConceptNet-derived knowledge sentence, a knowledge-enriched question, and an answer.</td>
 <td markdown="span">[Li et al. 2026](https://arxiv.org/abs/2602.19224)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[PersuasionForGood](https://gitlab.com/ucdavisnlp/persuasionforgood)</td>
@@ -3493,6 +3595,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Wang et al. 2024](https://arxiv.org/abs/2407.01081)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">InfoVisDial</td>
 <td markdown="span">English</td>
@@ -3505,6 +3608,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">InfoVisDial is a visual dialogue dataset featuring long, free-form, informative answers grounded in images from the TextVQA dataset. It is automatically curated by bridging the GIT multimodal model and GPT-3, with human filtering for quality control; 54.4% of dialogue rounds involve scene text and 36.7% require external knowledge, with an average answer length of 8.9 tokens.</td>
 <td markdown="span">[Wen et al. 2023](https://arxiv.org/abs/2312.13503)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Non-Cooperative GuessWhat?! Corpus](https://github.com/anthonysicilia/modeling-non-cooperation-TACL2022)</td>
@@ -3532,6 +3636,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Bai et al. 2023](https://arxiv.org/abs/2308.16890)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">CLEVR Ask</td>
 <td markdown="span">English</td>
@@ -3544,6 +3649,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">CLEVR Ask is a synthetic goal-oriented visual dialogue dataset in two balanced variants (Ask3 and Ask4) designed to require descriptive question generation with referring expressions. Scenes are rendered using CLEVR/Blender with balanced object attributes, and questions are generated from scene-graph templates to challenge questioner agents to disambiguate visually similar objects.</td>
 <td markdown="span">[Matsumori et al. 2021](https://arxiv.org/abs/2106.15550)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[MOD (Meme incorporated Open-domain Dialogue)](https://github.com/lizekang/DSTC10-MOD)</td>
@@ -3558,6 +3664,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Fei et al. 2021](https://arxiv.org/abs/2109.01839)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">CVRDS-SH (Chinese Voice Rejection Dataset for Smart Home)</td>
 <td markdown="span">Mandarin Chinese</td>
@@ -3570,6 +3677,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The first Chinese-oriented, open-source multimodal benchmark for voice assistant query rejection in smart home scenarios. Contains 11,913 manually labeled text-speech pairs covering 13 dialogue types (e.g., wake-words, illegal language, non-human sounds, chit-chat, valid commands, ambiguous references), with fine-grained labels, multi-turn conversational context, and user identity information to support zero-shot and fine-tuning evaluations across text and multimodal large language models.</td>
 <td markdown="span">[Men et al. 2025](https://arxiv.org/abs/2512.10257)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CTA Interesting Facts Dataset](https://github.com/vnik18/cta-interesting-facts)</td>
@@ -3584,6 +3692,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Vedula et al. 2024](https://arxiv.org/abs/2404.06659)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">PAT (Personalized Agent chaT)</td>
 <td markdown="span">English</td>
@@ -3596,6 +3705,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">PAT is a large-scale synthetic dataset of persona-grounded human-AI dialogue turns designed for training and evaluating multi-user personalized dialogue agents. It spans 133 distinct user profiles and 12 real-world scenarios, with query-response pairs generated using LLaMA-405B conditioned on structured persona profiles extracted from the MSC dataset via GPT-4o, uniquely supporting multi-user testing, human-AI interaction, and multi-session continuity.</td>
 <td markdown="span">[Al-Ratrout et al. 2026](https://arxiv.org/abs/2604.25022)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Syn-Multi](https://github.com/google-research-datasets/simulated-dialogue)</td>
@@ -3675,6 +3785,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Wang et al. 2025](https://arxiv.org/abs/2502.12988)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Video-Grounded Role-Playing Dialogue Dataset</td>
 <td markdown="span">English</td>
@@ -3687,6 +3798,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A video-grounded role-playing dialogue dataset constructed from 37 internationally renowned films across 13 franchises, comprising approximately 34K samples built via a script-grounded pipeline (from original movie dialogues with manual verification) and an LLM-augmented pipeline (using Gemini). Each sample pairs a video clip with character profiles and a dialogue history, requiring situationally consistent in-character utterance generation.</td>
 <td markdown="span">[Wang et al. 2026](https://arxiv.org/abs/2605.04733)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CharacterEval](https://github.com/morecry/CharacterEval)</td>
@@ -3779,6 +3891,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Frermann et al. 2017](https://arxiv.org/abs/1709.09443)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Persian Multi-Turn Dialogue Dataset</td>
 <td markdown="span">Persian (Farsi)</td>
@@ -3791,7 +3904,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A comprehensive Persian multi-turn dialogue dataset constructed following the MultiWOZ (Wizard-of-Oz) architecture, covering 20 open domains with annotated intents, slot-value pairs, and DST question sets. It is used to train and evaluate a hybrid DST model for Persian chatbots.</td>
 <td markdown="span">[Mahdipour Aghabagher et al. 2025](https://arxiv.org/abs/2510.01052)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">IndirectRequests</td>
 <td markdown="span">English</td>
@@ -3804,6 +3919,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">INDIRECT REQUESTS is a dataset of synthetically generated Indirect User Requests (IURs) derived from the Schema-Guided Dialogue (SGD) corpus, created via an LLM-based pipeline with crowdsourced quality filtering. It is designed as a testbed for evaluating NLU and Dialogue State Tracking models on realistic, non-literal user utterances that require pragmatic reasoning and world knowledge to interpret.</td>
 <td markdown="span">[Mannekote et al. 2024](https://arxiv.org/abs/2406.07794)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[D0T](https://github.com/anonymous)</td>
@@ -3922,6 +4038,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Lin et al. 2024](https://arxiv.org/abs/2407.15281)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Large-Scale Persona Dialogue Dataset</td>
 <td markdown="span">English</td>
@@ -3934,6 +4051,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A large-scale open-domain persona dialogue dataset automatically constructed from Reddit comments using a T5-based persona extraction model that summarizes persona triples from utterances. Each dialogue session is paired with persona profiles, and a persona augmentation technique is applied to reduce invalid-persona bias.</td>
 <td markdown="span">[Hong et al. 2025](https://arxiv.org/abs/2412.09034)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CGDIALOG+](https://github.com/WilliamsToTo/causalscore_dialogue)</td>
@@ -3961,6 +4079,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Bothe et al. 2020](https://arxiv.org/abs/1912.00819)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">GNOME Dataset</td>
 <td markdown="span">English</td>
@@ -3973,6 +4092,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The GNOME Dataset is a synthetic, open-domain negotiation dialogue corpus generated by the GNOME framework, which uses Llama-3-70B to remap existing human-annotated closed-domain negotiation dialogues (CaSiNo, Craigslist Bargain, Job Interview, Persuasion for Good) to novel negotiation scenarios spanning ~472 distinct domains, while preserving the original turn structure and strategy labels. It is designed to improve the generalizability of negotiation strategy prediction models beyond closed-domain training data.</td>
 <td markdown="span">[Deshpande et al. 2024](https://arxiv.org/abs/2406.10764)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[SQPsychConv](https://ai-mh.github.io/SQPsych)</td>
@@ -3987,6 +4107,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Vu et al. 2025](https://arxiv.org/abs/2510.25384)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">OSED (OpenSubtitles Emotional Dialogues)</td>
 <td markdown="span">English</td>
@@ -3999,7 +4120,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">OSED is a large-scale emotional dialogue dataset of 1 million dialogues extracted from the OpenSubtitles movie subtitle corpus, with each dialogue turn automatically annotated with 32 fine-grained emotion labels and 9 empathetic response intent labels using a semi-supervised BERT-based classifier (EmoBERT+). It is intended to support the development of empathetic conversational agents capable of generating emotion- and intent-conditioned responses.</td>
 <td markdown="span">[Welivita et al. 2020](https://arxiv.org/abs/2012.13624)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">MOUD</td>
 <td markdown="span">Multilingual (English and 28 other languages including French, Spanish, German, Japanese, Chinese, Arabic, Swahili, Yoruba, and more)</td>
@@ -4012,6 +4135,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">MOUD (Multilingual Open-domain Unnatural Dialogue Dataset) is a large-scale, LLM-generated persona-based open-domain dialogue dataset covering English and 28 target languages, produced without machine translation or target-language examples. Each dialogue is grounded in LLM-generated persona profiles, a common ground narrative, and a speech event type drawn from an expanded taxonomy, addressing the open-domain paradox by incorporating diverse conversational contexts and language-specific nuances.</td>
 <td markdown="span">[Njifenjou et al. 2025](https://arxiv.org/abs/2503.03462)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[DOTS](https://github.com/emorynlp/UnifiedDSI)</td>
@@ -4039,6 +4163,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Gomes et al. 2026](https://aclanthology.org/2026.propor-1.64/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Doctor–Patient Dialogue Dataset (for Dialogue-Tuning)</td>
 <td markdown="span">English</td>
@@ -4051,6 +4176,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A large-scale synthetic dialogue dataset of 22.2k doctor–patient interactions constructed by converting MedQA multiple-choice QA pairs and PubMed articles into multi-turn conversations using Gemini-2.5 Flash, capturing stepwise diagnostic reasoning validated by human evaluators. Introduced to support dialogue-tuning of medical LLMs.</td>
 <td markdown="span">[Liu et al. 2026](https://aclanthology.org/2026.findings-eacl.149/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Clinical ASR Impact Benchmark (Clinician-Annotated Subset)](https://github.com/Ufonia/wer-is-unaware)</td>
@@ -4091,6 +4217,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Glória-Silva et al. 2026](https://aclanthology.org/2026.findings-eacl.208/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">MTO</td>
 <td markdown="span">English</td>
@@ -4103,7 +4230,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">MTO is the first multi-turn conversational Text-to-OverpassQL dataset, built upon the OverpassNL corpus and constructed via a four-stage pipeline combining syntax-tree manipulation, LLM-based dialogue generation, and hybrid human/model filtering. Each dialogue comprises 2–4 user utterances paired with executable OverpassQL queries grounded in OpenStreetMap, designed to reflect realistic multi-turn information-seeking interactions with contextual dependencies across turns.</td>
 <td markdown="span">[Zhang et al. 2026](https://aclanthology.org/2026.findings-acl.36/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">EmotionTalk</td>
 <td markdown="span">Mandarin Chinese</td>
@@ -4116,7 +4245,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">EmotionTalk is a large-scale interactive Chinese multimodal emotion dataset comprising 744 dyadic dialogues (23.6 hours, 19,250 utterances) recorded by 19 professional actors across diverse real-life scenarios. It features a multi-grained annotation system combining 7 discrete emotion categories, 5 dimensional intensity labels, and fine-grained four-dimensional emotional speaking style captions (speaker, style, emotion, overall), supporting tasks including unimodal/multimodal emotion recognition and interpretable emotion captioning.</td>
 <td markdown="span">[Sun et al. 2026](https://aclanthology.org/2026.findings-acl.440/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">CFlowPsyD</td>
 <td markdown="span">Mandarin Chinese</td>
@@ -4129,6 +4260,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">CFlowPsyD is the first Chinese asynchronous psychological counseling (APC) dataset, comprising 1,700 high-quality multi-turn dialogues synthesized via the CFlowPsy self-optimizing multi-agent framework from 150 real anonymized seed cases. Each dialogue includes explicit counselor reasoning (thinking) annotations grounded in CBT/REBT theory and dynamic client persona tracking across 9 counseling topic domains.</td>
 <td markdown="span">[Li et al. 2026](https://aclanthology.org/2026.findings-acl.328/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[StoryMI](https://github.com/Beren-sds/StoryMI)</td>
@@ -4195,6 +4327,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Lei et al. 2026](https://aclanthology.org/2026.findings-acl.1193/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">ZH-4O</td>
 <td markdown="span">Chinese</td>
@@ -4207,6 +4340,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">ZH-4O is a Chinese ultra-long dialogue dataset designed for role-playing scenarios, featuring dialogues that average 600 turns per conversation and include manually annotated memory information to support research on memory extraction and management in long-horizon dialogues.</td>
 <td markdown="span">[MOOM et al. 2025](https://arxiv.org/abs/2509.11860)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[OpenDialog](https://github.com/k2-fsa/ZipVoice)</td>
@@ -4221,6 +4355,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Zhu et al. 2026](https://aclanthology.org/2026.findings-acl.1928/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">D2PCM</td>
 <td markdown="span">English</td>
@@ -4233,6 +4368,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">D2PCM is a multi-turn dialogue dataset grounded in the self-reference effect from cognitive psychology, designed to benchmark personalized memory processing algorithms. Each dialogue turn includes a user query, a memory chunk of five personality-differentiated memory items (one aligned with the user's Big Five persona), a chosen memory, and an assistant response annotated with reward values for memory-persona and response-persona alignment; preferred/rejected pairs and four candidate responses per turn are also provided to support DPO and GRPO post-training.</td>
 <td markdown="span">[Yang et al. 2026](https://aclanthology.org/2026.findings-acl.1870/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[J-Shuwa](https://github.com/SpaJune/J-Shuwa)</td>
@@ -4286,6 +4422,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Badawi et al. 2026](https://aclanthology.org/2026.eacl-long.180/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Multilingual Conversational NER Dataset</td>
 <td markdown="span">English, Spanish</td>
@@ -4298,6 +4435,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">An automatically generated multilingual conversational NER benchmark created via an LLM-based pipeline that produces entity-type-placeholder patterns from production traffic, validated by human annotators, and populated with catalog entities sampled from live traffic. The dataset comprises 4,082 English and 3,925 Spanish utterances with 22 entity types, targeting conversational AI interaction patterns such as multi-clause structures, discourse markers, and contextual references.</td>
 <td markdown="span">[Ghonim et al. 2026](https://aclanthology.org/2026.eacl-industry.26/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[BOULDER](https://github.com/ivankartac/boulder)</td>
@@ -4312,6 +4450,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Kartáč et al. 2026](https://aclanthology.org/2026.acl-long.560/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">HiVisTask</td>
 <td markdown="span">Hinglish (Hindi-English code-mixed)</td>
@@ -4324,6 +4463,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">HiVisTask is the first Hinglish (Hindi-English code-mixed) multimodal, multidomain, persona-grounded task-oriented dialogue dataset, containing 2,700 dialogues and 42,000 utterances across 7 user personas (e.g., Housewife, IT Professional, College Student). Dialogues were generated using GPT-3.5-Turbo and LLaMA-2-13B, then manually reviewed and post-edited by annotators, and include both textual and visual (image/screenshot) modalities across 14 real-world task domains.</td>
 <td markdown="span">[Agrahari et al. 2026](https://aclanthology.org/2026.eacl-long.96/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[OlaBench](https://olamind-olabench.github.io)</td>
@@ -4364,6 +4504,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Liu et al. 2026](https://aclanthology.org/2026.acl-long.1673/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">M-MD3</td>
 <td markdown="span">English (US English and Indian English)</td>
@@ -4376,6 +4517,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">M-MD3 (target-word-Masked Multi-Dialect Dataset of Dialogues) is an extension of the MD3 dataset comprising target-word-masked taboo-game conversations in US English (en-US) and Indian English (en-IN), along with two synthetically transformed subsets: en-MV (en-US transformed to include Indian English dialectal features via Multi-VALUE) and en-TR (en-IN with dialectal information removed via GPT-4). It supports two evaluation tasks—target word prediction (TWP) and target word selection (TWS)—for assessing dialect robustness of LLMs.</td>
 <td markdown="span">[Srirag et al. 2025](https://aclanthology.org/2025.sumeval-2.3/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[JobNego and ResNego](https://github.com/kajareprajwal1143/PRISMA)</td>
@@ -4403,6 +4545,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Prévot et al. 2025](https://aclanthology.org/2025.sigdial-1.14/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">DFLOW</td>
 <td markdown="span">English</td>
@@ -4415,6 +4558,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">DFLOW is a synthetic task-oriented dialogue dataset generated using an LLM-based simulation framework that produces decision tree-structured task plans and diverse dialogue trajectories (flows). It comprises 3,886 dialogues with fine-grained flow annotations across 130 tasks in 15 domains, including error-handling flows for out-of-scope requests and early-stop conversations.</td>
 <td markdown="span">[Du et al. 2025](https://aclanthology.org/2025.realm-1.2/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[BRAGE](https://github.com/tnresearch/brage)</td>
@@ -4572,6 +4716,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Sasu et al. 2025](https://aclanthology.org/2025.findings-acl.510/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">DialogTool</td>
 <td markdown="span">English</td>
@@ -4584,6 +4729,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">DialogTool is a multi-turn dialogue benchmark for evaluating the full lifecycle of stateful tool use by language model agents, covering six tasks across three stages: tool creation, tool utilization (awareness, selection, execution), and role-consistent response generation. It is accompanied by VirtualMobile, an embodied virtual mobile environment that simulates API calls across 20 Apps and 45 APIs, derived from SGD and MultiWoZ task-oriented dialogue datasets.</td>
 <td markdown="span">[Wang et al. 2025](https://aclanthology.org/2025.findings-acl.284/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[LlamaPIE Semi-Synthetic Dialogue Dataset](https://github.com/chentuochao/LlamaPIE)</td>
@@ -4871,6 +5017,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Sun et al. 2025](https://aclanthology.org/2025.emnlp-main.404/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">MMDiag</td>
 <td markdown="span">English</td>
@@ -4883,7 +5030,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">MMDiag is a large-scale multi-turn multimodal dialogue benchmark featuring complex dialogues with strong cross-turn contextual dependencies, requiring models to track, ground, and recall information across multiple turns and disparate visual regions. It covers three scenarios—everyday scenes, tabular/chart scenes, and Minigrid spatial planning—and is generated via a hybrid rule-based graph traversal and GPT-4o-mini refinement pipeline, with bounding box grounding annotations for each key region.</td>
 <td markdown="span">[Liu et al. 2025](https://aclanthology.org/2025.emnlp-main.1690/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Synthetic Psychotherapy Empathy Dialogues</td>
 <td markdown="span">English</td>
@@ -4896,6 +5045,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A collection of 10,464 LLM-generated synthetic psychotherapy dialogue pairs (produced via GPT-3 and Falcon 7B with and without Reflexion-based verbal reinforcement learning) and 579 human-annotated real therapy dialogue pairs, all labelled for three dimensions of empathy (emotional reactions, interpretations, explorations) using the EPITOME framework. Released to support NLP research on empathy detection in clinical and mental health support conversations.</td>
 <td markdown="span">[Cabrera Lozoya et al. 2025](https://aclanthology.org/2025.clpsych-1.13/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CoALM-IT](https://emrecanacikgoz.github.io/CoALM/)</td>
@@ -4936,6 +5086,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Mok et al. 2025](https://aclanthology.org/2025.acl-long.504/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">IVSR-CTF</td>
 <td markdown="span">Korean</td>
@@ -4948,7 +5099,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">IVSR-CTF is a Korean multi-turn dialogue dataset for in-vehicle speech recognition systems, generated using the CTFusion framework. It contains 41,216 dialogues covering 240 real-world in-vehicle driver intents across 14 domains, each dialogue transitioning from chitchat to a task-oriented request, with utterances labelled by functional intent (chat or task).</td>
 <td markdown="span">[Rim et al. 2025](https://aclanthology.org/2025.acl-industry.41/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Tagline Co-writing Dialogue Corpus</td>
 <td markdown="span">Japanese</td>
@@ -4961,6 +5114,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A dialogue corpus of human-human conversations performing a tagline co-writing task, in which participants collaboratively discuss and edit taglines for given products. The corpus includes the state of collaborative work during conversations and participant self-evaluations via questionnaires, intended to support research on collaborative dialogue systems and LLM fine-tuning.</td>
 <td markdown="span">[Zhou et al. 2024](https://aclanthology.org/2024.yrrsds-1.18/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[BridgeKG](https://github.com/philotron/Bridge-KG)</td>
@@ -5001,6 +5155,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Jeknic et al. 2024](https://aclanthology.org/2024.sigdial-1.41/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Proactive ISD Dialogue Corpus</td>
 <td markdown="span">English</td>
@@ -5013,6 +5168,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A corpus of 2,000 single-turn information-seeking dialogues constructed from the Natural Questions QA dataset, annotated by crowdworkers with proactive responses comprising a conversational answer and a proactive element (either a Follow-up Question or Additional Information). The corpus supports the study and evaluation of response-level proactivity in information-seeking dialogue agents.</td>
 <td markdown="span">[Lee et al. 2024](https://aclanthology.org/2024.sicon-1.5/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[RoleCraft-GLM Dataset](https://github.com/tml2002/RoleCraft)</td>
@@ -5040,6 +5196,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Kodama et al. 2024](https://aclanthology.org/2024.sicon-1.4/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Data2312/Data2402 (Japanese Multimodal Human-Human Dialogue Dataset)</td>
 <td markdown="span">Japanese</td>
@@ -5052,6 +5209,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Japanese multimodal human-human dialogue corpus collected using heterogeneous sensors, comprising speech, video, physiological signals (EDA, BVP, PPG, TEMP, ACC), gaze, and body movement data from paired interlocutors engaged in chit-chat, narrative, and discussion dialogues. Each interlocutor provided continuous subjective evaluations of their emotional valence (0–10) at 4 Hz via the CARMA annotation tool while reviewing dialogue recordings.</td>
 <td markdown="span">[Jiang et al. 2024](https://aclanthology.org/2024.sigdial-1.61/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[SportsVD](https://github.com/Cheng-Fenghua/SportsVD)</td>
@@ -5079,6 +5237,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Lee et al. 2024](https://aclanthology.org/2024.naacl-long.108/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">DDFC</td>
 <td markdown="span">English</td>
@@ -5091,6 +5250,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">DDFC (Dialogue Dataset annotated with Fact-Check-needed label) is a sentence-level annotated dataset derived from the FaithDial/Wizard of Wikipedia corpus, in which each sentence of a knowledge-grounded dialogue response is labeled with one of four discourse-act categories indicating whether a factual correctness judgment is required. Labels were assigned via Amazon Mechanical Turk crowdsourcing using a YES/NO flowchart annotation scheme.</td>
 <td markdown="span">[Kamei et al. 2024](https://aclanthology.org/2024.naacl-srw.13/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[ADEA](https://github.com/HaupChris/ADEA-Dialogue-Dataset)</td>
@@ -5365,6 +5525,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Abolghasemi et al. 2024](https://aclanthology.org/2024.findings-acl.871/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">S3-DST LMSYS-Chat-Split</td>
 <td markdown="span">English</td>
@@ -5377,6 +5538,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A curated subset of 5,100 open-domain human-LLM conversations sampled from LMSYS-Chat-1M, annotated with GPT-4 using the S3-DST framework for dialogue segmentation, segment intent (4 categories), and segment domain (49 categories). Intended as a testbed for open-domain dialogue state tracking and segmentation research.</td>
 <td markdown="span">[Das et al. 2024](https://aclanthology.org/2024.findings-acl.891/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[StableLLAVA Synthesized Image-Dialogue Dataset](https://github.com/icoz69/StableLLAVA)</td>
@@ -5417,6 +5579,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Petrak et al. 2024](https://aclanthology.org/2024.findings-emnlp.264/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Dialogue-RAG-MULTI-v1.0</td>
 <td markdown="span">English, Chinese</td>
@@ -5429,6 +5592,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A bilingual (English and Chinese) RAG dialogue dataset constructed to evaluate the performance of Retrieval-Augmented Generation systems in multi-round dialogue scenarios, specifically targeting challenges posed by ellipses and coreferences in dialogue utterances.</td>
 <td markdown="span">[et al. 2025](https://aclanthology.org/2025.acl-long.1191/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[STARK](https://stark-dataset.github.io/)</td>
@@ -5456,6 +5620,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Mullick et al. 2024](https://aclanthology.org/2024.findings-emnlp.919/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">PIX2PERSONA</td>
 <td markdown="span">English</td>
@@ -5468,6 +5633,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">PIX2PERSONA is a dataset of 143K dialogue turns derived from 15 diverse existing dialogue corpora, each turn enhanced with paired self-anthropomorphic (SA) and non-self-anthropomorphic (NSA) bot responses. It is designed to support the development of AI systems that can dynamically adjust their level of self-anthropomorphism to align with ethical standards and embodiment-specific user expectations.</td>
 <td markdown="span">[Li et al. 2024](https://aclanthology.org/2024.findings-emnlp.567/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CACTUS](https://github.com/coding-groot/cactus)</td>
@@ -5521,6 +5687,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Saley et al. 2024](https://aclanthology.org/2024.emnlp-main.936/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">ConvKGYarn</td>
 <td markdown="span">English</td>
@@ -5533,6 +5700,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">ConvKGYarn is a scalable, LLM-based pipeline for generating configurable conversational KGQA datasets grounded in Wikidata. It produces large-scale multi-turn factoid QA conversations with diverse linguistic configurations (voice vs. text interactions, deixis, disfluencies, typos) by combining LLM-generated question templates with KG fact slot-filling, yielding a General set of 29M entities/196M facts and a Related set of 210K entities/6.1M facts.</td>
 <td markdown="span">[Pradeep et al. 2024](https://aclanthology.org/2024.emnlp-industry.89/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[PERPDSCD](https://github.com/EMNLP2024-ABLE)</td>
@@ -5859,6 +6027,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Moradshahi et al. 2023](https://aclanthology.org/2023.findings-acl.174/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">DSD (Disambiguating Schema-guided Dialogue)</td>
 <td markdown="span">English</td>
@@ -5871,6 +6040,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">DSD is an augmented version of the Schema-Guided Dialogue (SGD) dataset in which turns handling database search result ambiguity are replaced or extended with automatically generated comparison-based disambiguation utterances (system, user, and confirmation turns), created using InstructGPT. It introduces a new COMPARE dialogue act and supports the novel Comparison-Based database search Ambiguity handling (CBA) task.</td>
 <td markdown="span">[Kim et al. 2023](https://aclanthology.org/2023.findings-acl.249/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Werewolf Among Us (Persuasion in Social Deduction Games Dataset)](https://persuasion-deductiongame.socialai-data.org)</td>
@@ -6184,6 +6354,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Ahmad et al. 2023](https://aclanthology.org/2023.eacl-main.253/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Kid Space Home Deployment Dataset</td>
 <td markdown="span">English</td>
@@ -6196,6 +6367,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A multimodal home deployment dataset collected from 12 children (ages 7–8) individually interacting with the Kid Space gamified math learning dialogue system at authentic homes. Audio-visual data was manually transcribed and annotated for 12 intent types and 3 entity types across five play-based learning activities.</td>
 <td markdown="span">[Okur et al. 2023](https://aclanthology.org/2023.bea-1.56/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[SafeConv](https://github.com/mianzhang/SafeConv)</td>
@@ -6249,6 +6421,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Liu et al. 2023](https://aclanthology.org/2023.acl-long.684/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">JMRD (Information Source Annotated)</td>
 <td markdown="span">Japanese</td>
@@ -6261,6 +6434,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">An information source annotation layer added to the Japanese Movie Recommendation Dialogue (JMRD) corpus (Kodama et al., 2022), in which each entity in recommender utterances is labeled as either database-derived (from external knowledge) or speaker-derived (from the speaker's own knowledge, experiences, and opinions). The annotated corpus is used to analyze how speaker-derived information contributes to dialogue engagingness.</td>
 <td markdown="span">[Kodama et al. 2023](https://aclanthology.org/2023.acl-srw.34/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[TopiOCQA](https://mcgill-nlp.github.io/topiocqa)</td>
@@ -6275,6 +6449,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Adlakha et al. 2022](https://aclanthology.org/2022.tacl-1.27/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">CMCC</td>
 <td markdown="span">Mandarin Chinese</td>
@@ -6287,6 +6462,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">CMCC (China Mobile Customer Care) is a large-scale human-human spoken dialogue dataset collected from real user–customer-service-staff conversations at China Mobile. The annotated portion (8,975 dialogues) is enriched with user emotion, expanded customer service caring act, user intent, and satisfaction labels, targeting care-oriented and task-oriented dialogue research.</td>
 <td markdown="span">[Huang et al. 2022](https://aclanthology.org/2022.seretod-1.7/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CareCall Corpus](https://github.com/naver-ai/carecall-corpus)</td>
@@ -6379,6 +6555,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Yusupujiang et al. 2022](https://aclanthology.org/2022.lrec-1.336/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">CIDC</td>
 <td markdown="span">Japanese</td>
@@ -6391,6 +6568,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">CIDC (Culinary Interview Dialogue Corpus) is a Japanese multimodal corpus of 308 dyadic interview dialogues in which skilled and unskilled interviewers actively elicit cooking knowledge from professional and enthusiast culinary experts. Data were collected via Zoom video conferencing, capturing speech, facial expressions, and screen-shared cooking-process images, with manually corrected transcripts and utterance-level timestamps.</td>
 <td markdown="span">[Okahisa et al. 2022](https://aclanthology.org/2022.lrec-1.335/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Bazinga!](https://hf.co/bazinga)</td>
@@ -6405,6 +6583,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Lerner et al. 2022](https://aclanthology.org/2022.lrec-1.367/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Multimodal CommonLayout Corpus</td>
 <td markdown="span">Japanese</td>
@@ -6417,6 +6596,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Japanese multimodal dialogue corpus of 80 human-human dyadic conversations collected via video chat (Zoom), in which pairs collaboratively perform the CommonLayout task under four conditions varying modality (Voice vs. Voice+Video) and social relationship (First meet vs. Friend). The corpus includes per-speaker audio, video (Voice+Video condition), task operation logs, and questionnaire data, designed to investigate how modality and social relationships affect the process of building common ground.</td>
 <td markdown="span">[Furuya et al. 2022](https://aclanthology.org/2022.lrec-1.435/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[ChiSense-12](https://gitlab.com/francescocabiddu/chisense-12)</td>
@@ -6444,6 +6624,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Zheng et al. 2022](https://aclanthology.org/2022.lrec-1.621/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">SHONGLAP</td>
 <td markdown="span">Bengali</td>
@@ -6456,6 +6637,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">SHONGLAP is the first large-scale annotated open-domain dialogue corpus in Bengali, comprising 7,703 multi-party dialogues transcribed from publicly available political discussion podcasts and TV talk-shows. Dialogues are annotated with speaker roles, sentiment labels, and topic labels using a weak-supervision framework, making it particularly suitable for low-resource language settings.</td>
 <td markdown="span">[Monsur et al. 2022](https://aclanthology.org/2022.lrec-1.623/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Travel Agency Task Dialogue Corpus with Age-Diverse Speakers](https://www.commu-ai.org/)</td>
@@ -6483,6 +6665,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Blache et al. 2022](https://aclanthology.org/2022.lrec-1.554/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Praising Skills Dialogue Corpus (Face-to-Face and Remote)</td>
 <td markdown="span">Japanese</td>
@@ -6495,7 +6678,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">Two novel corpora of face-to-face (17 dyads, 255 min) and remote (60 dyads, 1500 min) two-party dialogues in which participants take turns as praiser and receiver, annotated for utterance scenes and praising scenes, and rated for praising skill quality on a 7-point Likert scale by five third-party annotators. Multimodal features including head motion, gaze behaviour, and facial action units are extracted to analyse verbal and nonverbal praising behaviour across dialogue conditions.</td>
 <td markdown="span">[Onishi et al. 2022](https://aclanthology.org/2022.lrec-1.624/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">E-ConvRec</td>
 <td markdown="span">Mandarin Chinese</td>
@@ -6508,7 +6693,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">E-ConvRec is a large-scale, real-world Chinese conversational recommendation dataset collected from a leading e-commerce platform (JD.com), comprising over 25k pre-sales dialogues between users and customer service staff. It includes rich auxiliary information—user profiles (20 attribute types) and a product knowledge base (118k items)—and supports three sub-tasks: user preference recognition, dialogue management (recommendation timing prediction), and personalized recommendation.</td>
 <td markdown="span">[Jia et al. 2022](https://aclanthology.org/2022.lrec-1.622/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Multimodal Negotiation Corpus</td>
 <td markdown="span">Japanese</td>
@@ -6521,6 +6708,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Japanese multimodal negotiation corpus of 48 recorded video/audio sessions (764 minutes total) between skilled sales professionals and buyers across three product domains, annotated with 12-question social-psychological assessments (5-point Likert scale) covering satisfaction, trust, and negotiation competency dimensions from both buyer and seller perspectives. Designed for the task of social-psychological negotiation-outcome prediction (SPNOP) from non-verbal cues.</td>
 <td markdown="span">[Hojo et al. 2022](https://aclanthology.org/2022.lrec-1.732/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[EmoInHindi](https://www.ac.in/ai-nlp-ml/resources)</td>
@@ -6535,6 +6723,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Singh et al. 2022](https://aclanthology.org/2022.lrec-1.627/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">DST-USERS</td>
 <td markdown="span">Korean</td>
@@ -6547,7 +6736,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Korean human-human dialogue dataset collected via a crowdsourcing platform in which pairs of users plan scheduling events (appointments). Each dialogue is annotated with slot values for date, time (year, month, week, day, AM/PM, hour, minute), and location, and includes speaker identity information to distinguish who proposed vs. agreed to a schedule.</td>
 <td markdown="span">[Choi et al. 2022](https://aclanthology.org/2022.icon-main.8/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">CTA Metacognitive Human-Agent Negotiation Corpus</td>
 <td markdown="span">English</td>
@@ -6560,6 +6751,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A small multimodal corpus of Concurrent Think-Aloud (CTA) human-agent negotiation interactions in which participants (doctors) negotiate diabetes treatment plans with a simulated patient agent while verbalising their cognitive processes. Interactions are annotated with DIT/ISO 24617-2 dialogue acts extended with metacognitive content labels (reflection and decision categories) and nonverbal/GUI behavioural codes.</td>
 <td markdown="span">[Manzoor et al. 2022](https://aclanthology.org/2022.isa-1.1/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[INSPIRED](https://github.com/molingbo/INSPIRED)</td>
@@ -6730,6 +6922,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Ramaneswaran et al. 2022](https://aclanthology.org/2022.dravidianlangtech-1.4/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">JMRD (Japanese Movie Recommendation Dialogue)</td>
 <td markdown="span">Japanese</td>
@@ -6742,6 +6935,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">JMRD is a Japanese human-to-human movie recommendation dialogue dataset in which a recommender recommends a single movie to a seeker using hierarchically structured external knowledge (title, released year, director, cast, genre, reviews, and plots). Every recommender utterance is annotated with the specific knowledge item(s) it draws upon, enabling research on knowledge selection and grounded response generation.</td>
 <td markdown="span">[Kodama et al. 2022](https://aclanthology.org/2022.dialdoc-1.9/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Task2Dial](https://huggingface.co/datasets/cstrathe435/Task2Dial)</td>
@@ -6821,6 +7015,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Huryn et al. 2022](https://aclanthology.org/2022.coling-1.297/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">RealMedDial</td>
 <td markdown="span">Mandarin Chinese</td>
@@ -6833,7 +7028,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">RealMedDial is a Chinese medical dialogue dataset transcribed from 2,637 real doctor–patient consultation video clips sourced from the Kuaishou short-video platform, covering 17 hospital departments and 55 diseases. Each dialogue is annotated with doctor profiles, hospital department, diseases, and symptoms, supporting tasks such as medical response generation, department routing, and doctor recommendation.</td>
 <td markdown="span">[Xu et al. 2022](https://aclanthology.org/2022.coling-1.295/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Parallel Pidgin-English Dialogue Corpus</td>
 <td markdown="span">Nigerian Pidgin (Naija), Cameroonian Pidgin (Yaounde), English</td>
@@ -6846,6 +7043,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The first parallel English–Pidgin dialogue corpus, covering Nigerian Pidgin (Naija) and Cameroonian Pidgin (Yaounde) across two task-oriented dialogue domains (restaurant search from E2E and drone-human communication). It includes a small set of ~200 parallel sentence pairs alongside larger monolingual corpora in both Pidgin varieties and English, intended to support low-resource Pidgin NLG and translation research.</td>
 <td markdown="span">[Chang et al. 2022](https://aclanthology.org/2022.coling-1.377/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Wizard of Tasks](https://registry.opendata.aws/wizard-of-tasks/)</td>
@@ -6899,6 +7097,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Gain et al. 2022](https://aclanthology.org/2022.amta-research.7/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Korean Insurance QA Dataset</td>
 <td markdown="span">Korean</td>
@@ -6911,7 +7110,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Korean single-turn QA dataset in the cancer insurance domain, constructed by scraping Q&A pairs from Naver Knowledge iN answered by 25 insurance experts, filtered to cancer-related pairs, and annotated with 17 user intent labels and 11 slot types. The dataset also includes a knowledge base of 817 FAQ pairs sourced from nine insurance companies, with manual mappings between source questions and FAQs.</td>
 <td markdown="span">[Na et al. 2022](https://aclanthology.org/2022.cai-1.5/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">MPED</td>
 <td markdown="span">English</td>
@@ -6924,6 +7125,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">MPED (Multi-Party Empathetic Dialogue) is a dataset collected from an online peer-to-peer emotional support platform, comprising single-turn (MPED-S) and multi-turn (MPED-M) dialogues among more than two speakers. Each utterance is annotated with one of 10 emotion categories (e.g., happy, sad, calm) and one of three empathy degree labels (weak, moderate, strong) across three empathy criteria: Emotional Reactions, Interpretations, and Explorations.</td>
 <td markdown="span">[Zhu et al. 2022](https://aclanthology.org/2022.acl-long.24/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[GlobalWoZ](https://ntunlpsg.github.io/project/globalwoz/)</td>
@@ -7042,6 +7244,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Tiwari et al. 2022](https://aclanthology.org/2022.aacl-main.76/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">SocialIQA-based Commonsense Dialogues</td>
 <td markdown="span">English</td>
@@ -7054,6 +7257,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A large-scale multi-turn open-domain dialogue dataset focused on social commonsense inference, collected via Amazon Mechanical Turk using event-description prompts drawn from the SocialIQA benchmark. Workers wrote 4–6 turn dialogues between two friends about the described social event; five dialogues were collected per prompt, yielding 25K dialogues. The dataset is complemented by ~21K commonsense-focused dialogues automatically extracted from DailyDialog, EmpatheticDialogues, and MuTual using ConceptNet triple matching.</td>
 <td markdown="span">[Zhou et al. 2021](https://aclanthology.org/2021.sigdial-1.13/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[MRCWOZ](https://github.com/cuthalionn/Velocidapter)</td>
@@ -7107,6 +7311,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Mrini et al. 2021](https://aclanthology.org/2021.nlpmc-1.8/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">CBT Follow-Up Dialogue Corpus</td>
 <td markdown="span">Italian</td>
@@ -7119,6 +7324,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A corpus of follow-up psychotherapy dialogues elicited from two groups of writers (4 psychotherapists and 4 non-expert writers) using automatically generated textual stimuli derived from personal narratives collected during Cognitive Behavioral Therapy (CBT) interventions. The corpus is grounded in real patient narratives and designed to support the development of conversational agents for mental health applications.</td>
 <td markdown="span">[Mousavi et al. 2021](https://aclanthology.org/2021.nlpmc-1.1/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[XPersona](https://github.com/HLTCHKUST/Xpersona)</td>
@@ -7133,6 +7339,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Lin et al. 2021](https://aclanthology.org/2021.nlp4convai-1.10/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Personality-MultiWOZ Dialogue Dataset</td>
 <td markdown="span">English</td>
@@ -7145,6 +7352,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A crowdsourced dataset of task-oriented dialogues collected via Amazon Mechanical Turk, pairing user personality profiles (measured via four questionnaires: IOS, Big Five, KISS-18, ATQ) with dialogue transcripts and task performance metrics from interactions with a rule-based MultiWOZ dialogue system. Designed to study the influence of user personality on dialogue task performance.</td>
 <td markdown="span">[Guo et al. 2021](https://aclanthology.org/2021.nlp4convai-1.25/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Contrast Set for Knowledge-seeking Turn Detection](https://github.com/jind11/REDE)</td>
@@ -7185,6 +7393,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Wang et al. 2021](https://aclanthology.org/2021.naacl-industry.14/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">HDRS (Hindi Dialogue Restaurant Search)</td>
 <td markdown="span">Hindi</td>
@@ -7197,6 +7406,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">HDRS is a Hindi-language dialogue corpus for the restaurant search domain, designed to support research on Spoken Language Understanding (SLU) and Dialogue State Tracking (DST) in task-oriented dialogue systems. Utterances are annotated with dialogue acts and belief states, addressing language-specific challenges such as inflectional morphology and code-mixing in Hindi.</td>
 <td markdown="span">[Malviya et al. 2021](https://aclanthology.org/2021.icon-main.80/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Sentimental Douban Conversation Corpus](https://github.com/luxinxyz/RDR/)</td>
@@ -7471,6 +7681,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Andreas et al. 2020](https://aclanthology.org/2020.tacl-1.36/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Quarto Dialogue Corpus</td>
 <td markdown="span">English</td>
@@ -7483,6 +7694,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A novel situated, multimodal dialogue corpus for the board game Quarto, consisting of agent–simulated-partner dialogues originally conducted in a formal Meaning Representation Language (MRL) and subsequently translated into colloquial English by trained annotators. Each utterance is represented as a ⟨game board, MRL, NL⟩ tuple, designed to support training of NLU and NLG modules for game-learning dialogue systems.</td>
 <td markdown="span">[Zare et al. 2020](https://aclanthology.org/2020.sigdial-1.41/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[ILLC-IER + Low-level Image Editing Dialogues](https://github.com/tzuhsial/ImageEditingWithDialogue)</td>
@@ -7523,6 +7735,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Priego-Valverde et al. 2020](https://aclanthology.org/2020.lrec-1.59/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Emotional Speech Corpus for Persuasive Dialogue</td>
 <td markdown="span">Japanese</td>
@@ -7535,6 +7748,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Japanese emotional speech corpus for persuasive dialogue systems, extending an existing persuasive dialogue corpus with crowdsourced emotional response variations (neutral, angry, sad, happy) across 1,839 dialogue contexts, with 4,280 utterances recorded by a voice actor covering four emotion classes.</td>
 <td markdown="span">[Asai et al. 2020](https://aclanthology.org/2020.lrec-1.62/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[KOMODIS](https://github.com/fabiangal/komodis-dataset)</td>
@@ -7588,6 +7802,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Firdaus et al. 2020](https://aclanthology.org/2020.lrec-1.514/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Mansion Task Corpus</td>
 <td markdown="span">Japanese</td>
@@ -7600,6 +7815,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A small pilot corpus of situated, task-oriented dialogues collected via a gamified Minecraft-based platform ("Mansion Task"), where pairs of players cooperatively navigate a virtual mansion while chatting. Dialogues are annotated with dialogue acts using a simplified ISO 24617-2 label set, collected via a novel self-annotation method in which speakers and hearers annotate their own utterances in real time.</td>
 <td markdown="span">[Ogawa et al. 2020](https://aclanthology.org/2020.lrec-1.876/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[AIA-BDE](https://github.com/hgoliv/AIA-BDE)</td>
@@ -7679,6 +7895,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Feng et al. 2020](https://aclanthology.org/2020.emnlp-main.652/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">AMIE (Automated-vehicle Multimodal In-cabin Experience) Dataset</td>
 <td markdown="span">English</td>
@@ -7691,6 +7908,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A multimodal in-cabin dataset collected via a Wizard-of-Oz scavenger hunt paradigm with 30 passengers across 20 sessions, featuring audio, in-cabin video, and road-view video recordings of passenger-vehicle interactions. Utterances are annotated with utterance-level passenger intents and word-level slots for autonomous vehicle dialogue understanding.</td>
 <td markdown="span">[Okur et al. 2020](https://aclanthology.org/2020.challengehml-1.7/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CIMA](https://github.com/kstats/CIMA)</td>
@@ -7705,6 +7923,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Stasaski et al. 2020](https://aclanthology.org/2020.bea-1.5/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">EMOTyDA</td>
 <td markdown="span">English</td>
@@ -7717,6 +7936,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">EMOTyDA (multimodal Emotion aware Dialogue Act dataset) is compiled from IEMOCAP (302 dyadic dialogues, 9,376 utterances) and MELD (1,039 multi-party dialogues, 9,989 utterances), manually annotated with 12 dialogue act tags (SWBD-DAMSL-based) and mapped to 10 emotion categories. Each utterance includes video, audio, and text modalities along with speaker identifiers and dialogue history context.</td>
 <td markdown="span">[Saha et al. 2020](https://aclanthology.org/2020.acl-main.402/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[KdConv](https://github.com/thu-coai/KdConv)</td>
@@ -7887,6 +8107,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Park et al. 2019](https://aclanthology.org/N19-1148/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Simulated Nurse-Patient Symptom Monitoring Dialogue Dataset</td>
 <td markdown="span">English</td>
@@ -7899,6 +8120,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A simulated human-human dialogue dataset constructed from linguistically-inspired, clinically-validated templates derived from real-world nurse-to-patient telephone conversations for post-discharge congestive heart failure symptom monitoring. The dataset embodies spoken dialogue characteristics such as thinking aloud, self-contradiction, and topic drift, and is paired with a real-world evaluation set of 353 conversations (41 hours) from Changi General Hospital, annotated for dialogue comprehension QA over 9 clinical symptoms and 5 attributes.</td>
 <td markdown="span">[Liu et al. 2019](https://aclanthology.org/N19-2004/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Clothes & Makeup CS Dialogue Datasets](https://github.com/songkaisong/ssa)</td>
@@ -7952,6 +8174,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Yu et al. 2019](https://aclanthology.org/D19-1204/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">MultiDoGO</td>
 <td markdown="span">English</td>
@@ -7964,6 +8187,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">MultiDoGO is a large-scale, multi-domain Wizard-of-Oz goal-oriented dialogue dataset spanning six customer service domains (Airline, Fast Food, Finance, Insurance, Media, Software Support), comprising over 81K dialogues annotated with agent dialogue acts, customer intent classes, and slot labels at both turn and sentence granularity. It is over 8 times the size of MultiWOZ and features deliberately controlled dialogue biases to ensure diversity in conversation flows.</td>
 <td markdown="span">[Peskov et al. 2019](https://aclanthology.org/D19-1460/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[CamRest676-GECOR](https://multinlp.github.io/GECOR/)</td>
@@ -7978,6 +8202,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Quan et al. 2019](https://aclanthology.org/D19-1462/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Business Scene Dialogue (BSD) Corpus</td>
 <td markdown="span">Japanese, English</td>
@@ -7990,7 +8215,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Japanese-English parallel corpus of business conversations covering 955 scenarios and 30,000 sentence pairs across six business scene types (face-to-face, phone call, general chatting, meeting, training, presentation). Each scenario is annotated with scene information and speaker labels, making it suitable for machine translation training and evaluation as well as context-aware and document-level NLP research.</td>
 <td markdown="span">[Rikters et al. 2019](https://aclanthology.org/D19-5204/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">SAMSum Corpus</td>
 <td markdown="span">English</td>
@@ -8003,6 +8230,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The SAMSum Corpus (Samsung Abstractive Messenger Summarization) contains 16,369 messenger-style chat dialogues created by linguists fluent in English, covering informal to formal registers and diverse everyday topics. Each dialogue is manually annotated with a single abstractive summary written in the third person, designed to support research on abstractive dialogue summarization.</td>
 <td markdown="span">[Gliwa et al. 2019](https://aclanthology.org/D19-5409/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Indonesian Conversational SRL Dataset](https://kata.ai/case-studies/jemma)</td>
@@ -8147,6 +8375,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Zhang et al. 2018](https://aclanthology.org/C18-1317/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Multi-domain Goal-Oriented Dialogue Dataset</td>
 <td markdown="span">English</td>
@@ -8159,7 +8388,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A crowdsourced multi-domain goal-oriented human-machine dialogue dataset covering three tasks (buying movie tickets, finding restaurants, reserving tables), generated via a stochastic agenda-based user simulator interacting with a rule-based policy and paraphrased into natural language by crowdworkers. Dialogues are annotated with domain, intent, and slot labels for spoken language understanding research.</td>
 <td markdown="span">[Bapna et al. 2017](https://aclanthology.org/W17-5514/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">CSDC (Chinese Spoken Dialogue Corpus)</td>
 <td markdown="span">Mandarin Chinese</td>
@@ -8172,7 +8403,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">CSDC is a large-scale Chinese spoken dialogue corpus built from real-life telephone recordings across five task-oriented domains (restaurant booking, hotel booking, weather query, taxi ordering, and mobile top-up). Each sentence is annotated with slot information, making it the first Chinese spoken dialogue corpus with such annotations and, at over 140,000 dialogues, claimed to be the largest of its kind at the time of publication.</td>
 <td markdown="span">[Li et al. 2017](https://aclanthology.org/I17-2054/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Cambridge Restaurant WOZ Corpus</td>
 <td markdown="span">English</td>
@@ -8185,6 +8418,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A crowd-sourced Wizard-of-Oz dialogue corpus for restaurant search in Cambridge, UK, collected via a novel pipelined parallel WOZ framework on Amazon Mechanical Turk. Each dialogue is annotated with slot-value labels (informable and requestable slots) needed to train belief trackers in task-oriented dialogue systems.</td>
 <td markdown="span">[Wen et al. 2017](https://aclanthology.org/E17-1042/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Deal or No Deal Negotiation Dataset](https://github.com/facebookresearch/end-to-end-negotiator)</td>
@@ -8264,6 +8498,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Konovalov et al. 2016](https://aclanthology.org/L16-1501/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">DBOX Corpus</td>
 <td markdown="span">English, German, French</td>
@@ -8276,6 +8511,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The DBOX Corpus is a multilingual (English, German, French) collection of spoken human-human Wizard of Oz dialogues and human-machine dialogues gathered within the Eureka DBOX project, targeting interactive spoken language games. Dialogues are annotated to capture natural human dialogue behaviour including turn management, social signals, and attitudinal acts, with the aim of informing and improving a Question-Answering-based dialogue system.</td>
 <td markdown="span">[Lopes et al. 2014](https://aclanthology.org/L14-1182/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[DUEL](http://www.dsg-bielefeld.de/DUEL)</td>
@@ -8290,6 +8526,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Hough et al. 2016](https://aclanthology.org/L16-1281/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">Twente Debate Corpus</td>
 <td markdown="span">English</td>
@@ -8302,7 +8539,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A multimodal debate corpus designed for the study of head movement and turn-taking patterns, featuring video and audio recordings alongside automatically estimated head movements and manual annotations of speaking activity and gaze direction. Participants debated either alone or in pairs, enabling analysis of cooperation, competition, and their nonverbal correlates.</td>
 <td markdown="span">[Lücking et al. 2014](https://aclanthology.org/L14-1315/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Aix Map Task Corpus</td>
 <td markdown="span">French</td>
@@ -8315,7 +8554,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The Aix Map Task Corpus is a French multimodal collection of audio and video recordings of task-oriented dialogues, modelled after the HCRC Map Task corpus. It was collected under two communicative conditions (audio-only and face-to-face), transcribed into Inter-Pausal-Units with actual and canonical production forms, and designed to support analysis of speech and prosody.</td>
 <td markdown="span">[Astésano et al. 2014](https://aclanthology.org/L14-1564/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Polish Emergency Dialogue Corpus</td>
 <td markdown="span">Polish</td>
@@ -8328,7 +8569,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Polish dialogue corpus recorded to study alignment phenomena (syntactic, semantic, and pragmatic adaptation) in emergency/stress scenarios. Four dialogue scenarios were designed using map-task and diapix elicitation materials to prompt semi-spontaneous dialogues simulating stress and natural emergency communicative situations.</td>
 <td markdown="span">[Karpiński et al. 2012](https://aclanthology.org/L12-1266/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Japanese Backchannel Corpus</td>
 <td markdown="span">Japanese</td>
@@ -8341,7 +8584,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A Japanese spoken dialogue corpus designed for training and evaluating backchannel prediction models. Single-turn speech segments extracted from recorded conversations were presented as stimuli to 89 participants, who indicated appropriate backchannel timings via key-press; a Gaussian mixture model was applied to estimate backchannel relevance places (BRPs) with millisecond accuracy.</td>
 <td markdown="span">[Maekawa et al. 2014](https://aclanthology.org/L14-1563/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Tutorbot Corpus</td>
 <td markdown="span">English</td>
@@ -8354,7 +8599,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The Tutorbot Corpus is a multimodally rich multiparty face-to-face spoken dialogue corpus collected using state-of-the-art audio-visual capture equipment. It features triadic interactions in which two participants collaborate to solve a card-ordering game while a tutor manages their interaction; the corpus includes auto-synchronized multimodal signals and manual annotations of tutoring behaviour targeting the study of verbal and nonverbal tutoring strategies.</td>
 <td markdown="span">[Lopes et al. 2014](https://aclanthology.org/L14-1641/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">FreeTalk Multimodal Conversation Corpus</td>
 <td markdown="span">English</td>
@@ -8367,7 +8614,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The FreeTalk Multimodal Conversation Corpus consists of several hours of video and audio recordings captured from a variety of devices, including subjective manual annotations and derived data from image processing. It is accompanied by a web-based software toolkit for interactive browsing and analysis of the annotated multimodal data at different levels of granularity.</td>
 <td markdown="span">[et al. 2010](https://aclanthology.org/L10-1056/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Back-Channel Utterance Corpus</td>
 <td markdown="span">Japanese</td>
@@ -8380,7 +8629,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A corpus constructed by integrating back-channel utterances provided by four subjects in response to driver utterances across 60 in-car speech dialogues drawn from the CIAIR corpus. The resource supports the development of responsive spoken dialogue systems capable of producing back-channel utterances (e.g., "yeah", "uh huh") at appropriate timings in in-car settings.</td>
 <td markdown="span">[Ohta et al. 2010](https://aclanthology.org/L10-1176/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Spontal</td>
 <td markdown="span">Swedish</td>
@@ -8393,7 +8644,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">Spontal is a Swedish spontaneous dialogue corpus captured in high-quality audio, high-resolution video, and with a motion capture system. It comprises 120 dialogues of at least 30 minutes each, intended for multimodal dialogue research.</td>
 <td markdown="span">[Beskow et al. 2010](https://aclanthology.org/L10-1241/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">CASIA-CASSIL</td>
 <td markdown="span">Mandarin Chinese</td>
@@ -8406,7 +8659,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">CASIA-CASSIL is a large-scale Chinese human-human naturally-occurring telephone conversation corpus in restricted domains (tourism), selected from real-scenario spontaneous recordings. The first edition comprises 792 90-second conversations annotated at 13 levels, including turns, speaker gender, orthographic and phonetic transcription, prosodic boundary, sentence stress, non-speech sounds, voice quality, topic, dialog acts, adjacency pairs, ill-formedness, and expressive emotion.</td>
 <td markdown="span">[Dong et al. 2010](https://aclanthology.org/L10-1168/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">LUNA.PL</td>
 <td markdown="span">Polish</td>
@@ -8419,7 +8674,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">LUNA.PL is the first semantically annotated corpus of Polish spontaneous spoken dialogue, comprising 500 dialogues recorded at the Warsaw Transport Authority call centre. Each dialogue includes an audio signal, manual transcription, and five XML annotation files covering morphosyntactic, syntactic, and semantic levels (approximately 200 concept attributes and 47 predicate frame types).</td>
 <td markdown="span">[Marciniak et al. 2010](https://aclanthology.org/L10-1231/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">CReST (Cooperative Remote Search Task) Corpus</td>
 <td markdown="span">English</td>
@@ -8432,6 +8689,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The Indiana CReST Corpus is a multimodal collection of natural language dialogues between pairs of human interlocutors performing a cooperative remote search task across various scenarios such as search and rescue in indoor environments. The corpus includes speech signals and transcriptions annotated for dialogue moves (Carletta et al. 1997), disfluencies (Lickley 1998), and syntactic structure (POS, Penn Treebank constituent, and dependency annotations).</td>
 <td markdown="span">[Lögfren et al. 2010](https://aclanthology.org/L10-1459/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[Artwalk Corpus](http://nlds.soe.ucsc.edu/corpora)</td>
@@ -8446,6 +8704,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Liu et al. 2016](https://aclanthology.org/L16-1504/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">NICT Kyoto Tour Dialogue Corpus</td>
 <td markdown="span">Japanese</td>
@@ -8456,9 +8715,11 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">150+ hours of dialogue</td>
 <td markdown="span"></td>
 <td markdown="span">The NICT Kyoto Tour Dialogue Corpus is a collection of over 150 hours of human-human consulting dialogues in the tourist guidance domain, annotated with dialogue act tags covering communicative function (speech act) and semantic content, along with morphological and dependency analysis results, intended for training statistical spoken dialogue systems.</td>
-<td markdown="span">[Inaba et al. 2010](https://aclanthology.org/L10-1464/)</td>
+<td markdown="span">[Ohtake et al. 2010](https://aclanthology.org/L10-1464/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">PIT Corpus</td>
 <td markdown="span">German</td>
@@ -8471,7 +8732,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The PIT Corpus is a collection of multi-party dialogues recorded in a Wizard-of-Oz environment, capturing interactions in different system setups (e.g., with and without avatar). It includes gaze direction data and usability ratings (SASSISV, AttrakDiff questionnaires), and is used to study user behaviour differences when interacting with systems with versus without an avatar.</td>
 <td markdown="span">[Schlangen et al. 2010](https://aclanthology.org/L10-1611/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Spoken Smart-Home Interaction Corpus</td>
 <td markdown="span">English</td>
@@ -8484,7 +8747,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A spoken dialogue corpus of interactions between older and younger users and a smart-home system, collected to analyse linguistic differences and adaptation behaviour across age groups. The corpus is used to study speaking style, vocabulary, sentence complexity, and politeness in human-system dialogue.</td>
 <td markdown="span">[Wolters et al. 2008](https://aclanthology.org/L08-1193/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Companions Project Data Set</td>
 <td markdown="span">English, Czech</td>
@@ -8497,7 +8762,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A multimodal dialogue corpus collected as part of the EC-funded Companions project, consisting of spoken and written dialogues in English and Czech, with a large portion focused on reminiscing about personal photographs. The corpus was made available to the wider research community through the Companions Project web site.</td>
 <td markdown="span">[Wilks et al. 2008](https://aclanthology.org/L08-1197/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">ARRAU</td>
 <td markdown="span">English</td>
@@ -8510,7 +8777,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">ARRAU is a multi-genre corpus annotated for anaphoric relations, including agreement information, multiple antecedents for ambiguous anaphoric expressions, and discourse antecedents for abstract entity references (events, actions, plans). Source texts include task-oriented dialogues (Trains-91/93), narrative (Pear Stories), newspaper (WSJ/Penn Treebank), and mixed text (Gnome corpus).</td>
 <td markdown="span">[Poesio et al. 2008](https://aclanthology.org/L08-1091/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Multimodal Task-Oriented Dialogue Corpus</td>
 <td markdown="span">English</td>
@@ -8523,7 +8792,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">A multimodal corpus of task-oriented dialogues consisting of annotated videos capturing speakers' verbal requests and domain action executions. The resource is designed to support research on language production and comprehension, particularly how speakers structure utterances given the complexity of the message being conveyed.</td>
 <td markdown="span">[et al. 2008](https://aclanthology.org/L08-1200/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">Estonian Dialogue Corpus (and Corpus of Spoken Estonian)</td>
 <td markdown="span">Estonian</td>
@@ -8536,7 +8807,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The paper introduces the Corpus of Spoken Estonian and the Estonian Dialogue Corpus — collections of human-human spoken conversations in Estonian of various types, transcribed and annotated to study conversational strategies and spoken language phenomena for the development of intelligent spoken dialogue interfaces to databases.</td>
 <td markdown="span">[Hennoste et al. 2008](https://aclanthology.org/L08-1514/)</td>
 </tr>
+-->
 
+<!--
 <tr>
 <td markdown="span">CIAIR Corpus (Speech-Act Annotated)</td>
 <td markdown="span">Japanese</td>
@@ -8547,8 +8820,9 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">35,000+ utterance units</td>
 <td markdown="span"></td>
 <td markdown="span">A speech-act annotated version of the CIAIR spoken dialogue corpus, in which over 35,000 utterance units have been hand-tagged with a layered, context-dependent speech intention tag scheme designed to support both basic research and practical spoken dialogue system development. The annotation reliability was evaluated using kappa agreement scores across multiple annotators.</td>
-<td markdown="span">[et al. 2006](https://aclanthology.org/L06-1053/)</td>
+<td markdown="span">[Irie et al. 2006](https://aclanthology.org/L06-1053/)</td>
 </tr>
+-->
 
 <tr>
 <td markdown="span">[HCA Conversation Corpus](http://www.niceproject.com/data/)</td>
@@ -8563,6 +8837,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">[Andersen et al. 2006](https://aclanthology.org/L06-1089/)</td>
 </tr>
 
+<!--
 <tr>
 <td markdown="span">SAMMIE</td>
 <td markdown="span">English</td>
@@ -8575,6 +8850,7 @@ We would also like to thank David Traum who provided the information.
 <td markdown="span">The SAMMIE corpus consists of multimodal dialogues with an MP3 player collected via Wizard-of-Oz experiments, annotated with a rich feature set at multiple layers using the Nite XML Toolkit (NXT). It is intended to support research into multimodal interaction strategies and reinforcement learning of multimodal clarification requests.</td>
 <td markdown="span">[Kruijff-Korbayová et al. 2006](https://aclanthology.org/L06-1436/)</td>
 </tr>
+-->
 
 </tbody>
 </table>
