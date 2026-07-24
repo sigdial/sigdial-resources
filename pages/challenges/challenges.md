@@ -21,7 +21,7 @@ If you add other challenges or find errors, please create GitHub [issues](https:
 <thead>
 <tr class="header">
 <th>Name</th>
-<th>Belief Description</th>
+<th>Brief Description</th>
 </tr>
 </thead>
 <tbody>

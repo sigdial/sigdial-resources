@@ -1,7 +1,7 @@
 ---
 title: Corpora and Datasets
 keywords: corpus, dataset
-last_updated: "Aug. 12, 2025"
+last_updated: "July 13, 2025"
 datatable: true
 summary: "Corpora and datasets for discourse and dialogue reserach"
 sidebar: mydoc_sidebar

@@ -9,10 +9,13 @@ permalink: index.html
 toc: false
 ---
 
-This site lists resources useful for discourse and dialogue research. It is created and maintained by [SIGdial (Special Interest Group on Discourse and Dialogue)](https://www.sigdial.org/) (Main maintainer: Mikio Nakano)
+This site lists resources useful for discourse and dialogue research. 
+
+It is created and maintained by [SIGdial (Special Interest Group on Discourse and Dialogue)](https://www.sigdial.org/) (Main maintainer: Mikio Nakano)
 
 - [Corpora](corpora.html)
 - [Tools](tools.html) 
+- [Models](models.html)
 - [Challenges](challenges.html)
 
 If you want to add new resources or find errors, please create GitHub [issues](https://github.com/sigdial/sigdial-resources/issues) or [pull requests](https://github.com/sigdial/sigdial-resources/pulls). If you don't have an account on GitHub, please email at <resources@sigdial.org>.

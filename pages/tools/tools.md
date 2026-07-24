@@ -33,7 +33,7 @@ Part of this list was adapted from the DialPort resource list. We thank DialPort
 <th>Category</th>
 <th>Developer</th>
 <th>Programming Language</th>
-<th>Belief Description</th>
+<th>Brief Description</th>
 <th>Paper</th>
 </tr>
 </thead>
