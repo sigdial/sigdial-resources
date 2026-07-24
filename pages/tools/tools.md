@@ -1,7 +1,7 @@
 ---
 title: Tools
 keywords: tool, programming language
-last_updated: Jan. 14, 2025
+last_updated: Jaly 24, 2026
 datatable: true
 summary: "Tools useful for discourse and dialogue research"
 sidebar: mydoc_sidebar

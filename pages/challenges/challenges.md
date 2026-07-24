@@ -1,7 +1,7 @@
 ---
 title: Challenges
 keywords: challenge, shared task
-last_updated: Aug 31, 2024
+last_updated: July 24, 2026
 datatable: true
 summary: "Challenges, competitions, and shared tasks on discourse and dialogue technologies"
 sidebar: mydoc_sidebar
