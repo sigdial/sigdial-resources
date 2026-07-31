@@ -42,9 +42,28 @@ If you want to add other models or find errors, please create GitHub [issues](ht
 <td markdown="span">[Défossez et al., 2024](https://arxiv.org/abs/2410.00037)</td>
 </tr>
 
+<tr>
+<td markdown="span">[VoiceActivityProjection](https://github.com/ErikEkstedt/VoiceActivityProjection)</td>
+<td markdown="span">Self-supervised learning of Turn-taking Events</td>
+<td markdown="span">trained with English data</td>
+<td markdown="span">Voice Activity Projection is a Self-supervised objective for Turn-taking Events. This is an extended version which trains a stereo model (mono is still possible) that does not require any VAD information as input BUT do require separate channels for both speakers. Overbleed between the channels is fine as long as you have access to the VAD information (used as label during training). The stereo model greatly simplifies inference where the only input is a stereo waveform. The model is trained on a multitask loss defined by the original VAP-objective and a VAD-objective (predict the current voice activity over each frame for the two separate channels).</td>
+<td markdown="span">[Ekstedt and Skantze, 2022](https://www.isca-archive.org/interspeech_2022/ekstedt22_interspeech.pdf)</td>
+</tr>
+
 
 
 </tbody>
 </table>
 <div class="datatable-end"></div>
 
+<!--
+
+<tr>
+<td markdown="span">[]()</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+<td markdown="span">[]()</td>
+</tr>
+
+-->
