@@ -1,13 +1,9 @@
 source "https://rubygems.org"
 
-# to publish on github page
-gem 'github-pages', group: :jekyll_plugins
+# This site uses a local theme and Kramdown; the github-pages plugin bundle
+# pulls in unused dependencies, including rubyzip versions with known CVEs.
+gem "jekyll", "~> 3.10.0"
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "webrick", "~> 1.9", ">= 1.9.2"
 
-# to publich without github page
-#gem "jekyll"
-
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-# gem "webrick"
-gem "webrick", ">= 1.8.2"
-
-
+gem "wdm", ">= 0.1.0", platforms: [:mingw, :x64_mingw, :mswin]
